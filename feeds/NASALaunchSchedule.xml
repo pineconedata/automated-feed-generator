@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>NASA Launch Schedule</title>
+    <link>https://www.nasa.gov/launchschedule/</link>
+    <description>The list of upcoming mission events from NASA.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Wed, 27 Sep 2023 14:33:30 +0000</lastBuildDate>
+    <item>
+      <title>Mission: Artemis III Launch</title>
+      <link>https://www.nasa.gov/feature/artemis-iii</link>
+      <description>&lt;p&gt;In humanity’s first landing on the lunar surface in more than 50 years. NASA will send astronauts to explore a region near the Moon’s South Pole.&lt;/p&gt;&lt;img src="https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/spacex_starship_hls_artemis_iii_2_crew_0_0.jpg" alt="Mission: Artemis III Launch"&gt;</description>
+      <guid isPermaLink="false">https://www.nasa.gov/feature/artemis-iii</guid>
+      <pubDate>Wed, 27 Sep 2023 14:33:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mission: NISAR</title>
+      <link>https://nisar.jpl.nasa.gov/</link>
+      <description>&lt;p&gt;NISAR—NASA + Indian Space Research Organization + synthetic aperture radars—is a joint mission with the Indian Space Research Organization to track subtle changes in the Earth’s surface, spot warning signs of imminent volcanic eruptions, help to monitor groundwater supplies, track the melt rate of ice sheets tied to sea level rise, and observe shifts in the distribution of vegetation around the world.&lt;/p&gt;&lt;img src="https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/37_nisar_over_earth_300dpi_v3_nc.jpg" alt="Mission: NISAR"&gt;</description>
+      <guid isPermaLink="false">https://nisar.jpl.nasa.gov/</guid>
+      <pubDate>Wed, 27 Sep 2023 14:33:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mission: ASTHROS</title>
+      <link>https://www.jpl.nasa.gov/missions/asthros</link>
+      <description>&lt;p&gt;Launching from Antarctica, Astrophysics Stratospheric Telescope for High Spectral Resolution Observations at Submillimeter-wavelengths (ASTHROS) will use a balloon larger than a football field to study a phenomenon that chokes off star formation in some galaxies.&lt;/p&gt;&lt;img src="https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/jpegpia25168.jpg" alt="Mission: ASTHROS"&gt;</description>
+      <guid isPermaLink="false">https://www.jpl.nasa.gov/missions/asthros</guid>
+      <pubDate>Wed, 27 Sep 2023 14:33:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mission: Artemis II Launch</title>
+      <link>https://www.nasa.gov/artemis-ii</link>
+      <description>&lt;p&gt;Commander Reid Wiseman (NASA), Pilot Victor Glover (NASA), Mission Specialist Christina Hammock Koch (NASA) and Mission Specialist Jeremy Hansen (Canadian Space Agency) will venture around the Moon on Artemis II, the first crewed mission on NASA's path to establishing a long-term presence at the Moon for science and exploration through Artemis. The approximately 10-day flight will test NASA's foundational human deep space exploration capabilities, the Space Launch System rocket and Orion spacecraft, for the first time with astronauts.&lt;/p&gt;&lt;img src="https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/artemis_i_orion_opf.jpg" alt="Mission: Artemis II Launch"&gt;</description>
+      <guid isPermaLink="false">https://www.nasa.gov/artemis-ii</guid>
+      <pubDate>Wed, 27 Sep 2023 14:33:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mission: VIPER Moon Rover Mission</title>
+      <link>https://www.nasa.gov/viper</link>
+      <description>&lt;p&gt;NASA’s first robotic lunar rover – the Volatiles Investigating Polar Exploration Rover VIPER) - will explore Mons Mouton at the Moon’s South Pole to better understand the origin and distribution of the Moon’s water and other potential resources. VIPER will be delivered by Astrobotic’s Griffin lunar lander as part of a Commercial Lunar Payload Services delivery.&lt;/p&gt;&lt;img src="https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/viper_cdr_hero_08_lrg_1.jpeg" alt="Mission: VIPER Moon Rover Mission"&gt;</description>
+      <guid isPermaLink="false">https://www.nasa.gov/viper</guid>
+      <pubDate>Wed, 27 Sep 2023 14:33:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mission: NASA’s Boeing Starliner-1</title>
+      <link>https://www.nasa.gov/exploration/commercial/crew/index.html</link>
+      <description>&lt;p&gt;NASA astronauts Scott Tingle and Mike Fincke, commander and pilot, respectively, will fly aboard the Starliner spacecraft, which previously flew on Boeing’s Orbital Flight Test-2 mission.&lt;/p&gt;&lt;img src="https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/317188-12_cst_orbit_starliner_fr150_.jpeg" alt="Mission: NASA’s Boeing Starliner-1"&gt;</description>
+      <guid isPermaLink="false">https://www.nasa.gov/exploration/commercial/crew/index.html</guid>
+      <pubDate>Wed, 27 Sep 2023 14:33:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mission: Boeing CST-100 Starliner</title>
+      <link>https://www.nasa.gov/exploration/commercial/crew/index.html</link>
+      <description>&lt;p&gt;The Starliner spacecraft will launch on a United Launch Alliance Atlas V rocket from Space Launch Complex-41 at Cape Canaveral Space Force Station in Florida, returning about a week later in White Sands, New Mexico. The flight will carry two NASA astronaut test pilots, Butch Wilmore and Suni Williams.&lt;/p&gt;&lt;img src="https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/52095126237_5a3bc0296a_o.jpg" alt="Mission: Boeing CST-100 Starliner"&gt;</description>
+      <guid isPermaLink="false">https://www.nasa.gov/exploration/commercial/crew/index.html</guid>
+      <pubDate>Wed, 27 Sep 2023 14:33:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mission: NASA’s SpaceX Crew-8 Launch</title>
+      <link>https://www.nasa.gov/exploration/commercial/crew/index.html</link>
+      <description>&lt;p&gt;An integrated crew of four will travel to the space station aboard a SpaceX Dragon and Falcon 9 rocket. Hardware allocations for Dragon and Falcon are planned in the coming months.&lt;/p&gt;&lt;img src="https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/nhq202110270015_2.jpg" alt="Mission: NASA’s SpaceX Crew-8 Launch"&gt;</description>
+      <guid isPermaLink="false">https://www.nasa.gov/exploration/commercial/crew/index.html</guid>
+      <pubDate>Wed, 27 Sep 2023 14:33:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mission: Axiom MIssion 3</title>
+      <link>https://www.nasa.gov/press-release/nasa-selects-axiom-space-for-third-private-astronaut-station-mission</link>
+      <description>&lt;p&gt;Axiom Mission 3  is expected to spend 14 days docked to the space station. A specific launch date is dependent on spacecraft traffic to the space station and in-orbit activity planning and constraints. NASA and Axiom Space mission planners will coordinate in-orbit activities for the private astronauts to conduct in coordination with space station crew members and flight controllers on the ground.&lt;/p&gt;&lt;img src="https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/axiom_space.jpg" alt="Mission: Axiom MIssion 3"&gt;</description>
+      <guid isPermaLink="false">https://www.nasa.gov/press-release/nasa-selects-axiom-space-for-third-private-astronaut-station-mission</guid>
+      <pubDate>Wed, 27 Sep 2023 14:33:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mission: Plankton, Aerosol Cloud Ocean Ecosystem (PACE)</title>
+      <link>https://pace.oceansciences.org/home.htm</link>
+      <description>&lt;p&gt;PACE will advance the assessment of ocean health by measuring the distribution of phytoplankton, tiny plants and algae that sustain the marine food web.&lt;/p&gt;&lt;img src="https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/svs_pace_beauty2_0.jpg" alt="Mission: Plankton, Aerosol Cloud Ocean Ecosystem (PACE)"&gt;</description>
+      <guid isPermaLink="false">https://pace.oceansciences.org/home.htm</guid>
+      <pubDate>Wed, 27 Sep 2023 14:33:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mission: Masten Space Systems Commercial Lunar Payload Services Flight</title>
+      <link>https://www.nasa.gov/press-release/nasa-awards-contract-to-deliver-science-tech-to-moon-ahead-of-human-missions</link>
+      <description>&lt;p&gt;Suite of eight payloads – with nine science and technology instruments – delivered to the lunar South Pole of the Moon as part of a Commercial Lunar Payload Services delivery. Landing takes place in the following weeks.&lt;/p&gt;&lt;img src="https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/masten_lunar_lander_0.jpg" alt="Mission: Masten Space Systems Commercial Lunar Payload Services Flight"&gt;</description>
+      <guid isPermaLink="false">https://www.nasa.gov/press-release/nasa-awards-contract-to-deliver-science-tech-to-moon-ahead-of-human-missions</guid>
+      <pubDate>Wed, 27 Sep 2023 14:33:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mission: Firefly Aerospace Commercial Lunar Payload Services</title>
+      <link>https://www.nasa.gov/press-release/nasa-selects-firefly-aerospace-for-artemis-commercial-moon-delivery-in-2023</link>
+      <description>&lt;p&gt;Suite of 10 science investigations and technology demonstrations delivered to a non-polar region of the Moon’s surface as part of a Commercial Lunar Payload Services delivery. Landing takes place in the following weeks.&lt;/p&gt;&lt;img src="https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/blue_ghost_render.jpg" alt="Mission: Firefly Aerospace Commercial Lunar Payload Services"&gt;</description>
+      <guid isPermaLink="false">https://www.nasa.gov/press-release/nasa-selects-firefly-aerospace-for-artemis-commercial-moon-delivery-in-2023</guid>
+      <pubDate>Wed, 27 Sep 2023 14:33:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mission: X-59 First Flight</title>
+      <link>https://www.nasa.gov/X59</link>
+      <description>&lt;p&gt;The first flight of the Quesst quiet supersonic aircraft will take place out of Lockheed flight facilities in Palmdale, California. The Quesst mission has two goals: to design and build NASA's X-59 research aircraft with technology that reduces the loudness of a sonic boom to a gentle thump to people on the ground; and fly the X-59 over select U.S. communities to gather data on human responses to the sound generated during supersonic flight and deliver that data set to U.S. and international regulators.&lt;/p&gt;&lt;img src="https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/quesst_0.jpg" alt="Mission: X-59 First Flight"&gt;</description>
+      <guid isPermaLink="false">https://www.nasa.gov/X59</guid>
+      <pubDate>Wed, 27 Sep 2023 14:33:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mission: Astrobotic Peregrine Mission-1</title>
+      <link>https://www.nasa.gov/clps/astrobotic</link>
+      <description>&lt;p&gt;A suite of robotic NASA payloads will be sent to the lunar surface as part of a Commercial Lunar Payload Services (CLPS)delivery, in this case by Astrobotic Technology of Pittsburgh. Landing will take place in the following weeks. &lt;/p&gt;&lt;img src="https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/nasa_meatball_1_2.jpeg" alt="Mission: Astrobotic Peregrine Mission-1"&gt;</description>
+      <guid isPermaLink="false">https://www.nasa.gov/clps/astrobotic</guid>
+      <pubDate>Wed, 27 Sep 2023 14:33:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mission: Galactic/Extragalactic ULDB Spectroscopic Terahertz Observatory (GUSTO)</title>
+      <link>https://www.nasa.gov/press-release/nasa-selects-mission-to-study-churning-chaos-in-our-milky-way-and-beyond</link>
+      <description>&lt;p&gt;Launching from Antarctica, Galactic/Extragalactic ULDB Spectroscopic Terahertz Observatory (GUSTO) will fly an Ultralong-Duration Balloon carrying a telescope with carbon, oxygen and nitrogen emission line detectors, to measure emissions from the interstellar medium, the cosmic material found between stars.&lt;/p&gt;&lt;img src="https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/748421main_1_xl.jpg" alt="Mission: Galactic/Extragalactic ULDB Spectroscopic Terahertz Observatory (GUSTO)"&gt;</description>
+      <guid isPermaLink="false">https://www.nasa.gov/press-release/nasa-selects-mission-to-study-churning-chaos-in-our-milky-way-and-beyond</guid>
+      <pubDate>Wed, 27 Sep 2023 14:33:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mission: Intuitive Machines CLPS Flight IM-2</title>
+      <link>https://www.nasa.gov/feature/nasa-intuitive-machines-announce-landing-site-location-for-lunar-drill</link>
+      <description>&lt;p&gt;This mission will deliver NASA’s PRIME-1 drill to the Moon’s surface as part of a Commercial Lunar Payload Services (CLPS) delivery. Landing takes place in the following weeks. &lt;/p&gt;&lt;img src="https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/im-1_nova-c_mission_render.jpg" alt="Mission: Intuitive Machines CLPS Flight IM-2"&gt;</description>
+      <guid isPermaLink="false">https://www.nasa.gov/feature/nasa-intuitive-machines-announce-landing-site-location-for-lunar-drill</guid>
+      <pubDate>Wed, 27 Sep 2023 14:33:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mission: Lunar Trailblazer</title>
+      <link>https://www.jpl.nasa.gov/missions/lunar-trailblazer</link>
+      <description>&lt;p&gt;Lunar Trailblazer, a mission selected under NASA’s Small Innovative Missions for Planetary Exploration (SIMPLEx) program, is a small satellite designed to provide an understanding of the form, abundance, and distribution of water on the Moon, as well as the lunar water cycle. It will launch on Intuitive Machines' CLPS flight IM-2.&lt;/p&gt;&lt;img src="https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/lunar_trailblazer_illustration.jpg" alt="Mission: Lunar Trailblazer"&gt;</description>
+      <guid isPermaLink="false">https://www.jpl.nasa.gov/missions/lunar-trailblazer</guid>
+      <pubDate>Wed, 27 Sep 2023 14:33:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mission: Psyche</title>
+      <link>https://www.nasa.gov/psyche</link>
+      <description>&lt;p&gt;Set to launch from NASA's Kennedy Space Center in Florida, Psyche will travel across the solar system to an asteroid of the same name, which has unusually high metal content. Scientists hope understand why this is so, and to help answer fundamental questions about Earth’s own metal core and the formation of our solar system.&lt;/p&gt;&lt;img src="https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/pia21499-20170523.jpg" alt="Mission: Psyche"&gt;</description>
+      <guid isPermaLink="false">https://www.nasa.gov/psyche</guid>
+      <pubDate>Wed, 27 Sep 2023 14:33:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mission: Intuitive Machines CLPS Flight IM-1</title>
+      <link>https://www.nasa.gov/clps/intuitive-machines</link>
+      <description>&lt;p&gt;Suite of five robotic NASA payloads sent to the Moon’s surface as part of a Commercial Lunar Payload Services (CLPS) delivery. Landing takes place in the following weeks.&lt;/p&gt;&lt;img src="https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/im-1_nova-c_mission_render.jpg" alt="Mission: Intuitive Machines CLPS Flight IM-1"&gt;</description>
+      <guid isPermaLink="false">https://www.nasa.gov/clps/intuitive-machines</guid>
+      <pubDate>Wed, 27 Sep 2023 14:33:30 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
