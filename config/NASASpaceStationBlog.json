@@ -1,0 +1,12 @@
+{
+  "website_url": "https://blogs.nasa.gov/spacestation/",
+  "website_title": "NASA Space Station Blog",
+  "website_description": "The official blog of NASA's space station news.",
+  "elements_selector": "main#main > article",
+  "title_selector": "h2.entry-title",
+  "link_selector": "h2.entry-title > a",
+  "image_selector": "div.entry-content > figure > a > img",
+  "description_selector": "div.entry-content",
+  "date_selector": "footer.entry-footer > span.posted-on > a > time",
+  "date_format": "%B %d, %Y"
+}
