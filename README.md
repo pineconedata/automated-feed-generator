@@ -59,9 +59,11 @@ The configuration file (e.g., `config.json`) should contain the following parame
 - `date_selector`: CSS selector for the date of each element. This selector goes inside of a `.querySelector()` call that is run on each post element.
 - `date_format`: Date format of the date on the web page. This is used in conjunction with the `date_selector` to convert the date string to a datetime object using the [strptime](https://docs.python.org/3/library/datetime.html#strftime-strptime-behavior) method. 
 
+Adjust the arguments within this configuration file to match the website you want to scrape and the selectors you want to use.
+
 ### Example Configuration
 
-An example configuration file for scraping NASA's Space Station Blog's webpage is provided in this repository (the `NASASpaceStationBlog.json` file in the `config` directory). 
+An example configuration file for scraping the webpage of [NASA's Space Station Blog](https://blogs.nasa.gov/spacestation/) is provided in this repository as the `NASASpaceStationBlog.json` file in the `config` directory.
 
 Here's an example of an empty configuration file for easy copy-pasting. 
 
@@ -82,7 +84,7 @@ Here's an example of an empty configuration file for easy copy-pasting.
 
 ## Cron Job Scheduling
 
-To keep your feed up-to-date, we recommend scheduling this Python script as a cron job. You can use any cron job manager you like, but the example provided below works with crontab. 
+To keep your feed up-to-date, we recommend scheduling this Python script as a cron job. You can use any cron job manager you like, but the example provided below works with [crontab](https://man7.org/linux/man-pages/man5/crontab.5.html).
 
 1. Open your crontab configuration by running `crontab -e` as usual. 
 
@@ -92,9 +94,9 @@ To keep your feed up-to-date, we recommend scheduling this Python script as a cr
 0 2 * * * python3 /path/to/your/script/directory/automated-feed-generator.py --config_file '/path/to/your/script/directory/config/NASASpaceStationBlog.json'
 ```
 
-Make sure to replace `/path/to/your/script/directory/` with the actual directory where your Python script (automated_feed_generator.py) is located. Adjust the arguments within the configuration file to match the website you want to scrape and the selectors you want to use.
+* Make sure to replace `/path/to/your/script/directory/` with the actual directory where your Python script (`automated_feed_generator.py`) is located. 
 
-Add a separate line to your crontab file for each job that you want to schedule (typically one per configuration file).
+- Add a separate line to your crontab file for each job that you want to schedule (typically one per configuration file).
 
 ## License
 
