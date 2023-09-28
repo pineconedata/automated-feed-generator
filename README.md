@@ -51,7 +51,7 @@ The configuration file (e.g., `config.json`) should contain the following parame
 - `website_url`: URL of the website to scrape.
 - `website_title`: Title for the RSS feed.
 - `website_description`: Description for the RSS feed.
-- `elements_selector`: CSS selector for the list of posts to include in the RSS feed. This selector goes inside of a `document.querySelectorAll(elements_selector)` call. 
+- `posts_list_selector`: CSS selector for the list of posts to include in the RSS feed. This selector goes inside of a `document.querySelectorAll(elements_selector)` call. 
 - `title_selector`: CSS selector for the title of each element. This selector goes inside of a `.querySelector()` call that is run on each post element.
 - `link_selector`: CSS selector for the link of each element. This selector goes inside of a `.querySelector()` call that is run on each post element.
 - `image_selector`: CSS selector for the image of each element. This selector goes inside of a `.querySelector()` call that is run on each post element.
@@ -72,7 +72,7 @@ Here's an example of an empty configuration file for easy copy-pasting.
   "website_url": "",
   "website_title": "",
   "website_description": "",
-  "elements_selector": "",
+  "posts_list_selector": "",
   "title_selector": "",
   "link_selector": "",
   "image_selector": "",

@@ -15,7 +15,7 @@ def scrape_and_generate_rss(config):
     website_url = config['website_url']
     website_title = config['website_title']
     website_description = config['website_description']
-    elements_selector = config['elements_selector']
+    posts_list_selector = config['posts_list_selector']
     title_selector = config['title_selector']
     link_selector = config['link_selector']
     image_selector = config['image_selector']
@@ -38,25 +38,25 @@ def scrape_and_generate_rss(config):
     fg.link(href=website_url, rel='alternate')
     fg.description(website_description)
 
-    # Find and iterate through the elements on the web page
-    elements = driver.find_elements(By.CSS_SELECTOR, elements_selector)
-    for element in elements:
-        # Extract information about each item (title, link, description, date, etc.)
-        item_title = element.find_element(By.CSS_SELECTOR, title_selector).text
-        item_link = element.find_element(By.CSS_SELECTOR, link_selector).get_attribute('href')
-        image_link = element.find_element(By.CSS_SELECTOR, image_selector).get_attribute('src')
-        item_description = f'<p>{element.find_element(By.CSS_SELECTOR, description_selector).text}</p>'
-        item_description += f'<img src="{image_link}" alt="{item_title}">'
-        item_date = element.find_element(By.CSS_SELECTOR, date_selector).text
-        item_date = datetime.strptime(item_date, date_format).replace(tzinfo=pytz.utc)
+    # Find and iterate through the list of posts on the web page
+    posts_list = driver.find_elements(By.CSS_SELECTOR, posts_list_selector)
+    for post in posts_list:
+        # Extract information about each post (title, link, description, date, etc.)
+        post_title = post.find_element(By.CSS_SELECTOR, title_selector).text
+        post_link = post.find_element(By.CSS_SELECTOR, link_selector).get_attribute('href')
+        image_link = post.find_element(By.CSS_SELECTOR, image_selector).get_attribute('src')
+        post_description = f'<p>{post.find_element(By.CSS_SELECTOR, description_selector).text}</p>'
+        post_description += f'<img src="{image_link}" alt="{post_title}">'
+        post_date = post.find_element(By.CSS_SELECTOR, date_selector).text
+        post_date = datetime.strptime(post_date, date_format).replace(tzinfo=pytz.utc)
 
-        # Create a new entry for the item in the RSS feed
+        # Create a new entry in the RSS feed for each post
         fe = fg.add_entry()
-        fe.title(item_title)
-        fe.link(href=item_link)
-        fe.guid(item_link)
-        fe.description(item_description)
-        fe.pubDate(item_date)
+        fe.title(post_title)
+        fe.link(href=post_link)
+        fe.guid(post_link)
+        fe.description(post_description)
+        fe.pubDate(post_date)
 
     # Generate the RSS feed and return it as a string
     rss_feed = fg.rss_str(pretty=True)
@@ -76,7 +76,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     # Open and read the specified configuration file that contains the website and scraping parameters
-    with open(args.config_file, 'r') as config_file:
+    with open(os.path.join("config", args.config_file), 'r') as config_file:
         config = json.load(config_file)
 
     # Scrape website and generate the RSS feed
