@@ -51,15 +51,21 @@ The configuration file (e.g., `config.json`) should contain the following parame
 - `website_url`: URL of the website to scrape.
 - `website_title`: Title for the RSS feed.
 - `website_description`: Description for the RSS feed.
-- `posts_list_selector`: CSS selector for the list of posts to include in the RSS feed. This selector goes inside of a `document.querySelectorAll(elements_selector)` call. 
-- `title_selector`: CSS selector for the title of each element. This selector goes inside of a `.querySelector()` call that is run on each post element.
-- `link_selector`: CSS selector for the link of each element. This selector goes inside of a `.querySelector()` call that is run on each post element.
-- `image_selector`: CSS selector for the image of each element. This selector goes inside of a `.querySelector()` call that is run on each post element.
-- `description_selector`: CSS selector for the description of each element. This selector goes inside of a `.querySelector()` call that is run on each post element.
-- `date_selector`: CSS selector for the date of each element. This selector goes inside of a `.querySelector()` call that is run on each post element.
+- `posts_list_selector`: CSS selector for the list of posts to include in the RSS feed. 
+- `title_selector`: CSS selector for the title of each element.
+- `link_selector`: CSS selector for the link of each element.
+- `image_selector`: CSS selector for the image of each element.
+- `description_selector`: CSS selector for the description of each element.
+- `date_selector`: CSS selector for the date of each element.
 - `date_format`: Date format of the date on the web page. This is used in conjunction with the `date_selector` to convert the date string to a datetime object using the [strptime](https://docs.python.org/3/library/datetime.html#strftime-strptime-behavior) method. 
 
 Adjust the arguments within this configuration file to match the website you want to scrape and the selectors you want to use.
+
+### Selector Logic
+
+At a high level, the script will first identify the list of posts to include in the RSS feed by using `posts_list_selector` (where `document.querySelectorAll(posts_list_selector)` should return the same number of HTML elements as the number of posts that should be included in your output RSS feed's content). Using the `document.querySelectorAll()` method is one of the quickets ways to identify your desired `posts_list_selector` valkue. MDN has additional details on the [`document.querySelectorAll()` method](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll) if you are not familiar with it.
+
+Then, the script will scrape the details of each post using the other selectors (`title_selector`, `link_selector`, `image_selector`, `description_selector`, and `date_selector`. The selectors for the post details (`title_selector`, `link_selector`, etc.) are sub-selectors of the `posts_list_selector`. For example, this sub-selector logic for the `title_selector` would be implemented in JavaScript as `document.querySelectorAll(posts_list_selector)...querySelector(title_selector)` (this script uses Python and Selenium, but the JS logic can be helpful for identifying the proper value of `title_selector`, etc. more quickly). MDN has additional details on the [`document.querySelector()` method](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector) as well if you are not familiar with it.
 
 ### Example Configuration
 
@@ -97,6 +103,15 @@ To keep your feed up-to-date, we recommend scheduling this Python script as a cr
 * Make sure to replace `/path/to/your/script/directory/` with the actual directory where your Python script (`automated_feed_generator.py`) is located. 
 
 - Add a separate line to your crontab file for each job that you want to schedule (typically one per configuration file).
+
+## Limitations
+
+- **iFrames**: This script does not out-of-the-box support selectors that are within [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe).
+    - However, there could be ways around this limitation, depending on the site structure and iframe details. A first step might be to fork this repo and modify the `posts_list = driver.find_elements(By.CSS_SELECTOR, posts_list_selector)` logic to something like `posts_list = driver.find_element(By.CSS_SELECTOR, iframe_selector).find_elements(By.CSS_SELECTOR, posts_list_selector)`. Note that this example logic is untested and might not work in all scenarios. 
+- **Shadow DOMs**: This script does not out-of-the-box support selectors that are within [shadow DOMs](https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_shadow_DOM).
+    - Similar to iframes, there could be ways around this limitation. One possible solution might involve selecting the shadow DOM element and then selecting the posts_list (in JavaScript, this would look something like `document.querySelector(shadow_dom_selector).shadowRoot.querySelectorAll(posts_list_selector)`). 
+- **Blocking**: This script is meant to be run at a low-volume (once per day) from a personal machine that has access to the website that you are scraping. This is not intended to be used for any malicious purposes, and, as such, no steps have been taken to ensure that the website owner does not block or tarpit your traffic.
+    - Your traffic typically will not get blocked from running this script once per day. However, website owners have different policies and some might be more aggressive about blocking traffic (such as blocking all Linux+Firefox traffic). If you are concerned about getting blocked, then there is plenty of additional logic that could be added to this script to mitigate those risks.
 
 ## License
 
