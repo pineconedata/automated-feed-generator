@@ -57,7 +57,8 @@ The configuration file (e.g., `config.json`) should contain the following parame
 - `image_selector`: CSS selector for the image of each element.
 - `description_selector`: CSS selector for the description of each element.
 - `date_selector`: CSS selector for the date of each element.
-- `date_format`: Date format of the date on the web page. This is used in conjunction with the `date_selector` to convert the date string to a datetime object using the [strptime](https://docs.python.org/3/library/datetime.html#strftime-strptime-behavior) method. 
+- `date_format`: Date format of the date on the web page. This is used in conjunction with the `date_selector` to convert the date string to a datetime object using the [strptime](https://docs.python.org/3/library/datetime.html#strftime-strptime-behavior) method.
+- `file_name`: *Optional*, Name of the output feed file. If not specified, the alphanumeric characters of `website_title` will be used instead.
 
 Adjust the arguments within this configuration file to match the website you want to scrape and the selectors you want to use.
 
@@ -84,7 +85,8 @@ Here's an example of an empty configuration file for easy copy-pasting.
   "image_selector": "",
   "description_selector": "",
   "date_selector": "",
-  "date_format": ""
+  "date_format": "",
+  "file_name": ""
 }
 ```
 

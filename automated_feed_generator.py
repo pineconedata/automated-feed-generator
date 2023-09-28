@@ -41,7 +41,10 @@ def scrape_and_generate_rss(config):
     # Find and iterate through the list of posts on the web page
     posts_list = driver.find_elements(By.CSS_SELECTOR, posts_list_selector)
     for post in posts_list:
-        # Extract information about each post (title, link, description, date, etc.)
+        # Create a new entry in the RSS feed for each post
+        fe = fg.add_entry()
+
+        # Extract information about each post (title, link, description, date, etc.) and add it to the feed entry
         post_title = post.find_element(By.CSS_SELECTOR, title_selector).text
         post_link = post.find_element(By.CSS_SELECTOR, link_selector).get_attribute('href')
         image_link = post.find_element(By.CSS_SELECTOR, image_selector).get_attribute('src')
@@ -50,8 +53,7 @@ def scrape_and_generate_rss(config):
         post_date = post.find_element(By.CSS_SELECTOR, date_selector).text
         post_date = datetime.strptime(post_date, date_format).replace(tzinfo=pytz.utc)
 
-        # Create a new entry in the RSS feed for each post
-        fe = fg.add_entry()
+
         fe.title(post_title)
         fe.link(href=post_link)
         fe.guid(post_link)
@@ -84,7 +86,8 @@ if __name__ == "__main__":
 
     # Save the generated RSS feed to a file
     if rss_feed:
-        file_name = f'{"".join(x for x in config["website_title"] if x.isalnum())}.xml'
-        with open(f'{os.path.join("feeds", file_name)}', 'wb') as rss_file:
+        file_name = config["file_name"] if config.get("file_name") else "".join(x for x in config["website_title"] if x.isalnum())
+        file_path = os.path.join("feeds", f'{file_name}.xml')
+        with open(file_path, 'wb') as rss_file:
             rss_file.write(rss_feed)
-        print(f'RSS feed generated and saved as "{file_name}".')
+        print(f'RSS feed generated and saved as "{file_path}".')
