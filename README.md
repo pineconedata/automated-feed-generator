@@ -85,6 +85,7 @@ Here's an example of an empty configuration file for easy copy-pasting.
   "link_selector": "",
   "image_selector": "",
   "description_selector": "",
+  "description_type": "",
   "date_selector": "",
   "date_format": "",
   "file_name": ""
