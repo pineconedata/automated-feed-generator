@@ -48,16 +48,16 @@ python3 automated_feed_generator.py --config_file 'config.json'
 
 The configuration file (e.g., `config.json`) should contain the following parameters:
 
-- `website_url`: URL of the website to scrape.
-- `website_title`: Title for the RSS feed.
-- `website_description`: Description for the RSS feed.
-- `posts_list_selector`: CSS selector for the list of posts to include in the RSS feed. 
-- `title_selector`: CSS selector for the title of each element.
-- `link_selector`: CSS selector for the link of each element.
-- `image_selector`: CSS selector for the image of each element.
-- `description_selector`: CSS selector for the description of each element.
-- `date_selector`: CSS selector for the date of each element.
-- `date_format`: Date format of the date on the web page. This is used in conjunction with the `date_selector` to convert the date string to a datetime object using the [strptime](https://docs.python.org/3/library/datetime.html#strftime-strptime-behavior) method.
+- `website_url`: *Required*, URL of the website to scrape.
+- `website_title`: *Required*, Title for the RSS feed.
+- `website_description`: *Required*, Description for the RSS feed.
+- `posts_list_selector`: *Required*, CSS selector for the list of posts to include in the RSS feed. 
+- `title_selector`: *Required*, CSS selector for the title of each element.
+- `link_selector`: *Required*, CSS selector for the link of each element.
+- `image_selector`: *Optional*, CSS selector for the image of each element.
+- `description_selector`: *Optional*, CSS selector for the description of each element.
+- `date_selector`: *Optional - if specified, `date_format` is required*, CSS selector for the date of each element.
+- `date_format`: *Optional - if specified, `date_selector` is required*, Date format of the date on the web page. This is used in conjunction with the `date_selector` to convert the date string to a datetime object using the [strptime](https://docs.python.org/3/library/datetime.html#strftime-strptime-behavior) method.
 - `file_name`: *Optional*, Name of the output feed file. If not specified, the alphanumeric characters of `website_title` will be used instead.
 
 Adjust the arguments within this configuration file to match the website you want to scrape and the selectors you want to use.

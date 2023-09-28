@@ -16,12 +16,12 @@ def scrape_and_generate_rss(config):
     website_title = config['website_title']
     website_description = config['website_description']
     posts_list_selector = config['posts_list_selector']
-    title_selector = config['title_selector']
-    link_selector = config['link_selector']
-    image_selector = config['image_selector']
-    description_selector = config['description_selector']
-    date_selector = config['date_selector']
-    date_format = config['date_format']
+    title_selector = config.get('title_selector', None)
+    link_selector = config.get('link_selector', None)
+    image_selector = config.get('image_selector', None)
+    description_selector = config.get('description_selector', None)
+    date_selector = config.get('date_selector', None)
+    date_format = config.get('date_format', None)
 
     # Initialize a headless Firefox WebDriver for Selenium
     opts = FirefoxOptions()
@@ -46,19 +46,24 @@ def scrape_and_generate_rss(config):
 
         # Extract information about each post (title, link, description, date, etc.) and add it to the feed entry
         post_title = post.find_element(By.CSS_SELECTOR, title_selector).text
-        post_link = post.find_element(By.CSS_SELECTOR, link_selector).get_attribute('href')
-        image_link = post.find_element(By.CSS_SELECTOR, image_selector).get_attribute('src')
-        post_description = f'<p>{post.find_element(By.CSS_SELECTOR, description_selector).text}</p>'
-        post_description += f'<img src="{image_link}" alt="{post_title}">'
-        post_date = post.find_element(By.CSS_SELECTOR, date_selector).text
-        post_date = datetime.strptime(post_date, date_format).replace(tzinfo=pytz.utc)
-
-
         fe.title(post_title)
+
+        post_link = post.find_element(By.CSS_SELECTOR, link_selector).get_attribute('href')
         fe.link(href=post_link)
         fe.guid(post_link)
+
+        if description_selector:
+            post_description = f'<p>{post.find_element(By.CSS_SELECTOR, description_selector).text}</p>'
+
+        if image_selector:
+            image_link = post.find_element(By.CSS_SELECTOR, image_selector).get_attribute('src')
+            post_description += f'<img src="{image_link}" alt="{post_title}">'
         fe.description(post_description)
-        fe.pubDate(post_date)
+
+        if date_selector and date_format:
+            post_date = post.find_element(By.CSS_SELECTOR, date_selector).text
+            post_date = datetime.strptime(post_date, date_format).replace(tzinfo=pytz.utc)
+            fe.pubDate(post_date)
 
     # Generate the RSS feed and return it as a string
     rss_feed = fg.rss_str(pretty=True)
