@@ -20,6 +20,7 @@ def scrape_and_generate_rss(config):
     link_selector = config.get('link_selector', None)
     image_selector = config.get('image_selector', None)
     description_selector = config.get('description_selector', None)
+    description_type = config.get('description_type', None)
     date_selector = config.get('date_selector', None)
     date_format = config.get('date_format', None)
 
@@ -53,7 +54,10 @@ def scrape_and_generate_rss(config):
         fe.guid(post_link)
 
         if description_selector:
-            post_description = f'<p>{post.find_element(By.CSS_SELECTOR, description_selector).text}</p>'
+            if description_type and description_type == 'html':
+                post_description = post.find_element(By.CSS_SELECTOR, description_selector).get_attribute('innerHTML')
+            else:
+                post_description = f'<p>{post.find_element(By.CSS_SELECTOR, description_selector).text}</p>'
 
         if image_selector:
             image_link = post.find_element(By.CSS_SELECTOR, image_selector).get_attribute('src')

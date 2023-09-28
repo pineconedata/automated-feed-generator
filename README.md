@@ -56,6 +56,7 @@ The configuration file (e.g., `config.json`) should contain the following parame
 - `link_selector`: *Required*, CSS selector for the link of each element.
 - `image_selector`: *Optional*, CSS selector for the image of each element.
 - `description_selector`: *Optional*, CSS selector for the description of each element.
+- `description_type`: *Optional*, Determines if the description should pull from the `text` or `innerHTML` attribute of the element located via the `description_selector`. Certain RSS readers can have issues with HTML description content, so the default is `text`. 
 - `date_selector`: *Optional - if specified, `date_format` is required*, CSS selector for the date of each element.
 - `date_format`: *Optional - if specified, `date_selector` is required*, Date format of the date on the web page. This is used in conjunction with the `date_selector` to convert the date string to a datetime object using the [strptime](https://docs.python.org/3/library/datetime.html#strftime-strptime-behavior) method.
 - `file_name`: *Optional*, Name of the output feed file. If not specified, the alphanumeric characters of `website_title` will be used instead.
