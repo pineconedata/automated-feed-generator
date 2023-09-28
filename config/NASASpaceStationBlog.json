@@ -7,6 +7,7 @@
   "link_selector": "h2.entry-title > a",
   "image_selector": "div.entry-content > figure > a > img",
   "description_selector": "div.entry-content",
+  "description_type": "html",
   "date_selector": "footer.entry-footer > span.posted-on > a > time",
   "date_format": "%B %d, %Y"
 }
