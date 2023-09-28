@@ -1,0 +1,14 @@
+{
+  "website_url": "https://www.deeplearning.ai/the-batch/",
+  "website_title": "Deep Learning AI",
+  "website_description": "The batch of latest news published by Deep Learning AI.",
+  "posts_list_selector": "article.h-full",
+  "title_selector": "h2",
+  "link_selector": "a",
+  "image_selector": "img",
+  "description_selector": "div.leading-normal",
+  "description_type": "text",
+  "date_selector": ".font-medium",
+  "date_format": "%b %d, %Y",
+  "file_name": "deeplearningai"
+}

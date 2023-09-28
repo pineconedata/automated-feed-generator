@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Deep Learning AI</title>
+    <link>https://www.deeplearning.ai/the-batch/</link>
+    <description>The batch of latest news published by Deep Learning AI.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Thu, 28 Sep 2023 19:08:49 +0000</lastBuildDate>
+    <item>
+      <title>Taught by a Bot, Game Devs Embrace Generative AI, Japan's Data Free-For-All, Faster Diffusion</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/jun-14-2023/</link>
+      <description>&lt;p&gt;The Batch - AI News &amp; Insights: AI risks are in the air — from speculation that AI, decades or centuries from now, could bring about human extinction to ongoing problems like bias and fairness.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Taught by a Bot, Game Devs Embrace Generative AI, Japan's Data Free-For-All, Faster Diffusion"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jun-14-2023/</guid>
+      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Generative Economic Engine, Tesla Semiautonomous Crashes, LLMs in the Courtroom, Seeing What the Brain Sees</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/jun-21-2023/</link>
+      <description>&lt;p&gt;The Batch - AI News &amp; Insights: I spent Sunday through Tuesday at the CVPR computer vision conference in Vancouver, Canada, along with over 4,000 other attendees. With the easing of the pandemic, it’s fantastic that large conferences are being held in person again!&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Generative Economic Engine, Tesla Semiautonomous Crashes, LLMs in the Courtroom, Seeing What the Brain Sees"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jun-21-2023/</guid>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta’s Generative Strategy, Robots Invade Mechanical Turk, U.S. Gears Up to Regulate, Better Fine-Tuning</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/jun-28-2023/</link>
+      <description>&lt;p&gt;The Batch - AI News &amp; Insights: Suddenly it seems like everyone wants to regulate AI. The European Union is on the verge of enacting a comprehensive AI Act that’s intended to mitigate risks and protect individual rights.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Meta’s Generative Strategy, Robots Invade Mechanical Turk, U.S. Gears Up to Regulate, Better Fine-Tuning"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jun-28-2023/</guid>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Secret Life of Data Labelers, Letting Chatbots See Your Data, Making Government Multilingual</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/jul-05-2023/</link>
+      <description>&lt;p&gt;The Batch - AI News &amp; Insights: Prompt-based development is making the machine learning development cycle much faster: Projects that used to take months now may take days.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="The Secret Life of Data Labelers, Letting Chatbots See Your Data, Making Government Multilingual"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jul-05-2023/</guid>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stable Biases, Jobs at Risk, Efficient Robot Training, Banks Embrace AI</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/jul-12-2023/</link>
+      <description>&lt;p&gt;The Batch - AI News &amp; Insights: Internalizing this mental framework has made me a more efficient machine learning engineer: Most of the work of building a machine learning system is debugging rather than development.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Stable Biases, Jobs at Risk, Efficient Robot Training, Banks Embrace AI"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jul-12-2023/</guid>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Generative AI On Trial, Chatbot Shoot-Out, Top AI Startups, No Hyperparameters External Inbox</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/jul-19-2023/</link>
+      <description>&lt;p&gt;The Batch - AI News &amp; Insights: Many laws will need to be updated to encourage beneficial AI innovations while mitigating potential harms. One example: Copyright law as it relates to generative AI is a mess!&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Generative AI On Trial, Chatbot Shoot-Out, Top AI Startups, No Hyperparameters External Inbox"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jul-19-2023/</guid>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT Performance Drifts, Apple Grapples With Generative AI, Big AI Accepts Voluntary Limits</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/jul-26-2023/</link>
+      <description>&lt;p&gt;The Batch - AI News &amp; Insights: The White House announced voluntary commitments by seven AI companies, as you can read below. Most of the points were sufficiently vague that it seems easy for the White House and the companies to declare success without doing much that they don’t already do.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="ChatGPT Performance Drifts, Apple Grapples With Generative AI, Big AI Accepts Voluntary Limits"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jul-26-2023/</guid>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Drones of War, Generative AI in the Cloud, K-Pop in Many Tongues, Better Weather Forecasts</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/aug-02-2023/</link>
+      <description>&lt;p&gt;The Batch - AI News &amp; Insights: Last week, I returned home from Asia, where I spoke at Seoul National University in Korea, the National University of Singapore, and the University of Tokyo in Japan and visited many businesses.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Drones of War, Generative AI in the Cloud, K-Pop in Many Tongues, Better Weather Forecasts"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/aug-02-2023/</guid>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Medical AI Advances, Chatbots Work the Drive-Thru, ChatGPT Racks Up Server Fees, Image Generators Get an Upgrade</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/aug-09-2023/</link>
+      <description>&lt;p&gt;The Batch - AI News &amp; Insights: Do large language models understand the world? As a scientist and engineer, I’ve avoided asking whether an AI system “understands” anything.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Medical AI Advances, Chatbots Work the Drive-Thru, ChatGPT Racks Up Server Fees, Image Generators Get an Upgrade"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/aug-09-2023/</guid>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPU Shortage, Affordable Robodog, Humanizing Large Language Models, China's Open LLMs</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/aug-16-2023/</link>
+      <description>&lt;p&gt;The Batch - AI News &amp; Insights: An increasing variety of large language models (LLMs) are open source, or close to it. The proliferation of models with relatively permissive licenses gives developers more options for building applications.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="GPU Shortage, Affordable Robodog, Humanizing Large Language Models, China's Open LLMs"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/aug-16-2023/</guid>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Battle Over Training Data Heats Up, AI Chip Challenger Gains Traction, Vision Transformers Get Flexible</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/aug-23-2023/</link>
+      <description>&lt;p&gt;The Batch - AI News &amp; Insights: Machine learning development is an empirical process. It’s hard to know in advance the result of a hyperparameter choice, dataset, or prompt to a large language model (LLM).&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Battle Over Training Data Heats Up, AI Chip Challenger Gains Traction, Vision Transformers Get Flexible"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/aug-23-2023/</guid>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Text to 3D Animation, China Restricts Face Recognition, Self-Driving Cars Get Crash Recorders</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/aug-30-2023/</link>
+      <description>&lt;p&gt;The Batch - AI News &amp; Insights: I’d like to share a part of the origin story of large language models that isn’t widely known. A lot of early work in natural language processing (NLP) was funded by U.S. military intelligence...&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Text to 3D Animation, China Restricts Face Recognition, Self-Driving Cars Get Crash Recorders"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/aug-30-2023/</guid>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>High Wages for AI Talent, Fake Newscasters, DeepMind’s Offspring Proliferate</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/sep-06-2023/</link>
+      <description>&lt;p&gt;The Batch - AI News &amp; Insights: Amidst rising worry about AI harms both realistic (like job loss) and unrealistic (like human extinction), It’s critical to understand AI’s potential to do tremendous good. Our new specialization, AI for Good...&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="High Wages for AI Talent, Fake Newscasters, DeepMind’s Offspring Proliferate"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/sep-06-2023/</guid>
+      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT Keeps Your Secrets, Microsoft Embraces GenAI Risk, Google Demands GenAI Disclosure</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/sep-13-2023/</link>
+      <description>&lt;p&gt;The Batch - AI News &amp; Insights: I recently spoke about “Opportunities in AI” at Stanford’s Graduate School of Business. I want to share a few observations from that presentation.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="ChatGPT Keeps Your Secrets, Microsoft Embraces GenAI Risk, Google Demands GenAI Disclosure"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/sep-13-2023/</guid>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Text-to-Music Generation, Military Drone Swarm, Machine Translation Blocks Asylum Seekers</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/sep-20-2023/</link>
+      <description>&lt;p&gt;While AI is a general-purpose technology that’s useful for many things, it isn’t good for every task under the sun. How can we decide which concrete use cases to build? If you’re helping a business figure out where to apply AI, I’ve found the following recipe useful as a brainstorming aid:&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Text-to-Music Generation, Military Drone Swarm, Machine Translation Blocks Asylum Seekers"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/sep-20-2023/</guid>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT Goes Multimodal, Dating Apps Embrace AI, Microsoft Doubles Down on Chatbots, AI Drives Energy Efficiency</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-216/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2023%2F09%2FDATINGAI.png&amp;w=3840&amp;q=75" alt="ChatGPT Goes Multimodal, Dating Apps Embrace AI, Microsoft Doubles Down on Chatbots, AI Drives Energy Efficiency"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-216/</guid>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
