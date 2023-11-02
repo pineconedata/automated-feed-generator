@@ -134,7 +134,7 @@ Then, you can add this script as a single cron job that will update all of the f
 @daily ~/path/to/dir/automated_feed_generator.sh
 ```
 
-Now each `config_file.json` in the `config` directory will be passed to the `automated_feed_gneerator.py` script and will output a resulting file in the `feeds` directory. The only thing left is to host your `feeds` directory somewhere that a RSS feed reader can pull from (including GitHub, see the [Contributing](#Contributing) section below if you would like to subscribe to feeds generated in this repo).  
+Now each `config_file.json` in the `config` directory will be passed to the `automated_feed_gneerator.py` script and will output a resulting file in the `feeds` directory. All that's left is to host your `feeds` directory somewhere that a RSS feed reader can pull from.
 
 ## Limitations
 
@@ -151,4 +151,4 @@ This project is licensed under the GNU General Public License v3.0 - see the LIC
 
 ## Contributing 
 
-If you'd like to contribute to this project or report issues, please open a pull request or create an issue in the repository. Feel free to add a feed that you have generated to the `feeds` folder via pull request as well. Once your pull request is approved, you can subscribe to the URL in your RSS reader directly from this GitHub repo. To get the URL, simply navigate to the appropriate output file in the `feeds` folder in this GitHub repository, click on `Raw` in the top right corner of the file, and then copy/paste the resulting URL into your RSS feed reader (the URL should begin with something like `https://raw.githubusercontent.com/pineconedata/automated-feed-generator/`). 
+If you'd like to contribute to this project or report issues, please open a pull request or create an issue in the repository.
