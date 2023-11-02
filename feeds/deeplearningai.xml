@@ -6,42 +6,7 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Sep 2023 19:08:49 +0000</lastBuildDate>
-    <item>
-      <title>Taught by a Bot, Game Devs Embrace Generative AI, Japan's Data Free-For-All, Faster Diffusion</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/jun-14-2023/</link>
-      <description>&lt;p&gt;The Batch - AI News &amp; Insights: AI risks are in the air — from speculation that AI, decades or centuries from now, could bring about human extinction to ongoing problems like bias and fairness.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Taught by a Bot, Game Devs Embrace Generative AI, Japan's Data Free-For-All, Faster Diffusion"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jun-14-2023/</guid>
-      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Generative Economic Engine, Tesla Semiautonomous Crashes, LLMs in the Courtroom, Seeing What the Brain Sees</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/jun-21-2023/</link>
-      <description>&lt;p&gt;The Batch - AI News &amp; Insights: I spent Sunday through Tuesday at the CVPR computer vision conference in Vancouver, Canada, along with over 4,000 other attendees. With the easing of the pandemic, it’s fantastic that large conferences are being held in person again!&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Generative Economic Engine, Tesla Semiautonomous Crashes, LLMs in the Courtroom, Seeing What the Brain Sees"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jun-21-2023/</guid>
-      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta’s Generative Strategy, Robots Invade Mechanical Turk, U.S. Gears Up to Regulate, Better Fine-Tuning</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/jun-28-2023/</link>
-      <description>&lt;p&gt;The Batch - AI News &amp; Insights: Suddenly it seems like everyone wants to regulate AI. The European Union is on the verge of enacting a comprehensive AI Act that’s intended to mitigate risks and protect individual rights.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Meta’s Generative Strategy, Robots Invade Mechanical Turk, U.S. Gears Up to Regulate, Better Fine-Tuning"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jun-28-2023/</guid>
-      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Secret Life of Data Labelers, Letting Chatbots See Your Data, Making Government Multilingual</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/jul-05-2023/</link>
-      <description>&lt;p&gt;The Batch - AI News &amp; Insights: Prompt-based development is making the machine learning development cycle much faster: Projects that used to take months now may take days.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="The Secret Life of Data Labelers, Letting Chatbots See Your Data, Making Government Multilingual"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jul-05-2023/</guid>
-      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stable Biases, Jobs at Risk, Efficient Robot Training, Banks Embrace AI</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/jul-12-2023/</link>
-      <description>&lt;p&gt;The Batch - AI News &amp; Insights: Internalizing this mental framework has made me a more efficient machine learning engineer: Most of the work of building a machine learning system is debugging rather than development.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Stable Biases, Jobs at Risk, Efficient Robot Training, Banks Embrace AI"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jul-12-2023/</guid>
-      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Nov 2023 17:10:47 +0000</lastBuildDate>
     <item>
       <title>Generative AI On Trial, Chatbot Shoot-Out, Top AI Startups, No Hyperparameters External Inbox</title>
       <link>https://www.deeplearning.ai/the-batch/tag/jul-19-2023/</link>
@@ -108,16 +73,51 @@
     <item>
       <title>Text-to-Music Generation, Military Drone Swarm, Machine Translation Blocks Asylum Seekers</title>
       <link>https://www.deeplearning.ai/the-batch/tag/sep-20-2023/</link>
-      <description>&lt;p&gt;While AI is a general-purpose technology that’s useful for many things, it isn’t good for every task under the sun. How can we decide which concrete use cases to build? If you’re helping a business figure out where to apply AI, I’ve found the following recipe useful as a brainstorming aid:&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Text-to-Music Generation, Military Drone Swarm, Machine Translation Blocks Asylum Seekers"&gt;</description>
+      <description>&lt;p&gt;The Batch - AI News &amp; Insights: While AI is a general-purpose technology that’s useful for many things, it isn’t good for every task under the sun. How can we decide which concrete use cases to build? If you’re helping a business figure out where to apply AI...&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Text-to-Music Generation, Military Drone Swarm, Machine Translation Blocks Asylum Seekers"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/sep-20-2023/</guid>
       <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ChatGPT Goes Multimodal, Dating Apps Embrace AI, Microsoft Doubles Down on Chatbots, AI Drives Energy Efficiency</title>
-      <link>https://www.deeplearning.ai/the-batch/issue-216/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2023%2F09%2FDATINGAI.png&amp;w=3840&amp;q=75" alt="ChatGPT Goes Multimodal, Dating Apps Embrace AI, Microsoft Doubles Down on Chatbots, AI Drives Energy Efficiency"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-216/</guid>
+      <link>https://www.deeplearning.ai/the-batch/tag/sep-27-2023/</link>
+      <description>&lt;p&gt;The Batch - AI News &amp; Insights: As you can read below, improvements in chatbots have opened a market for bots integrated with dating apps. I’m excited about the possibilities for large language models (LLMs) in romantic relationships…&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="ChatGPT Goes Multimodal, Dating Apps Embrace AI, Microsoft Doubles Down on Chatbots, AI Drives Energy Efficiency"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/sep-27-2023/</guid>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI's New Power Couple, Movie Industry Limits AI, YouTube Goes Generative, More Web Data = More Bias</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/oct-04-2023/</link>
+      <description>&lt;p&gt;The Batch - AI News &amp; Insights: Andrej Karpathy, one of the Heroes of Deep Learning who currently works at OpenAI, quipped, “The hottest programming language is English.” While I appreciate the sentiment...&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="AI's New Power Couple, Movie Industry Limits AI, YouTube Goes Generative, More Web Data = More Bias"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/oct-04-2023/</guid>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-4 Opens Its Eyes, Meta’s Generative Facelift, Newsrooms Respond to AI, Beware Training on Generated Data</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/oct-11-2023/</link>
+      <description>&lt;p&gt;The Batch - AI News &amp; Insights: Over the weekend, Hamas launched a surprise terrorist attack on Israel, slaughtering and kidnapping civilians.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="GPT-4 Opens Its Eyes, Meta’s Generative Facelift, Newsrooms Respond to AI, Beware Training on Generated Data"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/oct-11-2023/</guid>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI for Brain Surgery, Microsoft's ChatGPT Bill, Google's Generative Phones, Better Prompts</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/oct-18-2023/</link>
+      <description>&lt;p&gt;The Batch - AI News &amp; Insights: I wrote earlier about how my team at AI Fund saw that GPT-3 set a new direction for building language applications, two years before ChatGPT was released.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="AI for Brain Surgery, Microsoft's ChatGPT Bill, Google's Generative Phones, Better Prompts"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/oct-18-2023/</guid>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Feel the Fear! AI Turns Deadly, Data Disappears, Criminals Clone Voices, Hype Overshoots Reality</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/oct-25-2023/</link>
+      <description>&lt;p&gt;The Batch - AI News &amp; Insights: Welcome to the Halloween special issue of The Batch, where we take a look at fears associated with AI. In that spirit, I’d like to address a fear of mine: Sensationalist claims that AI could bring about human extinction will cause serious harm.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Feel the Fear! AI Turns Deadly, Data Disappears, Criminals Clone Voices, Hype Overshoots Reality"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/oct-25-2023/</guid>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Problematic White House AI Policy, Parked Cruise Robotaxis, Transparency For Foundation Models, Synthetic Data Helps Image Generators</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/nov-01-2023/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2023%2F11%2FThe-Batch-ads-and-exclusive-banners--74-.png&amp;w=3840&amp;q=75" alt="Problematic White House AI Policy, Parked Cruise Robotaxis, Transparency For Foundation Models, Synthetic Data Helps Image Generators"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/nov-01-2023/</guid>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
