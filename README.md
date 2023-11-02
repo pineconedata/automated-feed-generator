@@ -18,7 +18,7 @@ Before using this tool, you need to have the following installed on your system:
 
 - [Selenium](https://pypi.org/project/selenium/) (Python library for web scraping)
 
-- [Firefox WebDriver](https://github.com/mozilla/geckodriver) (for headless web scraping)
+- [Firefox WebDriver](https://github.com/mozilla/geckodriver) (the browser to use for web scraping)
 
 - [feedgen](https://pypi.org/project/feedgen/) (Python library for RSS feed generation)
 
@@ -26,7 +26,7 @@ Additional details about dependencies and version numbers can be found in the `r
 
 ## Usage
 
-1. Clone this repository to your local machine:
+1. Clone this repository to your local machine (note: you should run this command from the directory where you want this repo to be located): 
 
 ```shell
 git clone https://github.com/pineconedata/automated-feed-generator.git
@@ -35,12 +35,12 @@ cd automated-feed-generator
 
 2. Create a configuration file (e.g., config.json) in the `config` directory of the repository. You can use the provided JSON configuration as a template and adjust the values to match your target website and scraping requirements. 
 
-3. Run the script with the configuration file as a command-line argument:
+3. Run the script from the same folder as the `automated_feed_generator.py` file (which you should already be in after executing `cd automated-feed-generator` in step 1) with the configuration file as a command-line argument:
 
 ```shell
 python3 automated_feed_generator.py --config_file 'config.json'
 ```
-- `--config_file`: Path to the configuration file you created in step 2.
+- `--config_file`: The name of the configuration file you created in step 2. The script expects this to be located in a `config` directory stored in the same place as the script. 
 
 4. The script will scrape the website, generate an RSS feed, and save it as an XML file in the `feeds` directory. The filename is derived from the website title, and any non-alphanumeric characters are removed.
 
@@ -101,14 +101,15 @@ To keep your feed up-to-date, we recommend scheduling this Python script to run 
 2. Add a cron job entry to schedule the script at your [desired frequency](https://crontab.guru]. For example, to run the script every day at 2:00 AM, you can add the following line:
 
 ```bash
-0 2 * * * python3 /path/to/your/script/directory/automated-feed-generator.py --config_file '/path/to/your/script/directory/config/NASASpaceStationBlog.json'
+0 2 * * * python3 ~/path/to/dir/automated-feed-generator/automated_feed_generator.py --config_file 'NASASpaceStationBlog.json'
 ```
 
-* Make sure to replace `/path/to/your/script/directory/` with the actual directory where your Python script (`automated_feed_generator.py`) is located. 
+- Make sure to replace `~/path/to/dir/automated-feed-generator/` with the actual directory where your Python script (`automated_feed_generator.py`) is located. 
 
 - Add a separate line to your crontab file for each job that you want to schedule (typically one per configuration file).
 
 Alternatively, you might want to run this Python script for all of the configuration files in the `config` directory at once and add only one line to your crontab configuration. In that case, you can move the Python script into a Shell script, like this: 
+
 ```bash
 #!/bin/bash
 cd ~/path/to/dir/automated-feed-generator
@@ -127,6 +128,8 @@ for config_file in "$configs_dir"/*.json; do
     fi
 done
 ```
+
+- Just like above, make sure to replace `~/path/to/dir/automated-feed-generator` with the actual directory where your Python script (`automated_feed_generator.py`) is located. 
 
 Then, you can add this script as a single cron job that will update all of the feeds at once. Here's an example of scheduling this script to run daily: 
 
