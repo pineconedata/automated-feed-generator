@@ -98,7 +98,7 @@ To keep your feed up-to-date, we recommend scheduling this Python script to run 
 
 1. Open your crontab configuration by running `crontab -e` as usual. 
 
-2. Add a cron job entry to schedule the script at your [desired frequency](https://crontab.guru]. For example, to run the script every day at 2:00 AM, you can add the following line:
+2. Add a cron job entry to schedule the script at your [desired frequency](https://crontab.guru). For example, to run the script every day at 2:00 AM, you can add the following line:
 
 ```bash
 0 2 * * * python3 ~/path/to/dir/automated-feed-generator/automated_feed_generator.py --config_file 'NASASpaceStationBlog.json'
