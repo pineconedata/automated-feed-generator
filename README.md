@@ -92,13 +92,13 @@ Here's an example of an empty configuration file for easy copy-pasting.
 }
 ```
 
-## Cron Job Scheduling
+## Scheduling
 
-To keep your feed up-to-date, we recommend scheduling this Python script as a cron job. You can use any cron job manager you like, but the example provided below works with [crontab](https://man7.org/linux/man-pages/man5/crontab.5.html).
+To keep your feed up-to-date, we recommend scheduling this Python script to run regularly. There are a variety of ways to do this, but the simplest example is setting it up as a cron job. You can use any cron job manager you like, but the example provided below works with [crontab](https://man7.org/linux/man-pages/man5/crontab.5.html).
 
 1. Open your crontab configuration by running `crontab -e` as usual. 
 
-2. Add a cron job entry to schedule the script at your desired frequency. For example, to run the script every day at 2:00 AM, you can add the following line:
+2. Add a cron job entry to schedule the script at your [desired frequency](https://crontab.guru]. For example, to run the script every day at 2:00 AM, you can add the following line:
 
 ```bash
 0 2 * * * python3 /path/to/your/script/directory/automated-feed-generator.py --config_file '/path/to/your/script/directory/config/NASASpaceStationBlog.json'
@@ -107,6 +107,34 @@ To keep your feed up-to-date, we recommend scheduling this Python script as a cr
 * Make sure to replace `/path/to/your/script/directory/` with the actual directory where your Python script (`automated_feed_generator.py`) is located. 
 
 - Add a separate line to your crontab file for each job that you want to schedule (typically one per configuration file).
+
+Alternatively, you might want to run this Python script for all of the configuration files in the `config` directory at once and add only one line to your crontab configuration. In that case, you can move the Python script into a Shell script, like this: 
+```bash
+#!/bin/bash
+cd ~/path/to/dir/automated-feed-generator
+
+# Directory containing configuration files
+configs_dir="config"
+
+# Iterate over each file in the configs directory
+for config_file in "$configs_dir"/*.json; do
+    if [ -e "$config_file" ]; then
+        # Extract the file name without the directory path
+        config_file_name=$(basename "$config_file")
+
+        echo "Processing $config_file_name..."
+        python3 automated_feed_generator.py --config_file "$config_file_name"
+    fi
+done
+```
+
+Then, you can add this script as a single cron job that will update all of the feeds at once. Here's an example of scheduling this script to run daily: 
+
+```bash
+@daily ~/path/to/dir/automated_feed_generator.sh
+```
+
+Now each `config_file.json` in the `config` directory will be passed to the `automated_feed_gneerator.py` script and will output a resulting file in the `feeds` directory. The only thing left is to host your `feeds` directory somewhere that a RSS feed reader can pull from (including GitHub, see the [Contributing](#Contributing) section below if you would like to subscribe to feeds generated in this repo).  
 
 ## Limitations
 
@@ -123,4 +151,4 @@ This project is licensed under the GNU General Public License v3.0 - see the LIC
 
 ## Contributing 
 
-If you'd like to contribute to this project or report issues, please open a pull request or create an issue in the repository. Feel free to add a feed that you have generated to the `feeds` folder via pull request as well. 
+If you'd like to contribute to this project or report issues, please open a pull request or create an issue in the repository. Feel free to add a feed that you have generated to the `feeds` folder via pull request as well. Once your pull request is approved, you can subscribe to the URL in your RSS reader directly from this GitHub repo. To get the URL, simply navigate to the appropriate output file in the `feeds` folder in this GitHub repository, click on `Raw` in the top right corner of the file, and then copy/paste the resulting URL into your RSS feed reader (the URL should begin with something like `https://raw.githubusercontent.com/pineconedata/automated-feed-generator/`). 
