@@ -38,6 +38,7 @@ def scrape_and_generate_rss(config):
     fg.title(website_title)
     fg.link(href=website_url, rel='alternate')
     fg.description(website_description)
+    fg.ttl(120)
 
     # Find and iterate through the list of posts on the web page
     posts_list = driver.find_elements(By.CSS_SELECTOR, posts_list_selector)
@@ -53,18 +54,28 @@ def scrape_and_generate_rss(config):
         fe.link(href=post_link)
         fe.guid(post_link)
 
+        # Check if a description_selector is provided for extracting post descriptions
         if description_selector:
+            # Check if a description_type is specified and it is set to 'html'. If so, extract the inner HTML content
             if description_type and description_type == 'html':
                 post_description = post.find_element(By.CSS_SELECTOR, description_selector).get_attribute('innerHTML')
+            # If no description_type or it's not 'html', create a simple paragraph HTML structure for the post description
             else:
                 post_description = f'<p>{post.find_element(By.CSS_SELECTOR, description_selector).text}</p>'
 
+        # Check if the image_selector is provided for extracting post image links
         if image_selector:
-            image_link = post.find_element(By.CSS_SELECTOR, image_selector).get_attribute('src')
-            post_description += f'<img src="{image_link}" alt="{post_title}">'
+            # Check if there are any matches for the provided image_selector
+            image_elements = post.find_elements(By.CSS_SELECTOR, image_selector)
+            # Extract the link to the image and add it to the post description
+            if image_elements:
+                image_link = image_elements[0].get_attribute('src')
+                post_description += f'<img src="{image_link}" alt="{post_title}">'
         fe.description(post_description)
 
+        # Check if date parameeters are provided for extracting the post date
         if date_selector and date_format:
+            # Extract and format the post date 
             post_date = post.find_element(By.CSS_SELECTOR, date_selector).text
             post_date = datetime.strptime(post_date, date_format).replace(tzinfo=pytz.utc)
             fe.pubDate(post_date)
