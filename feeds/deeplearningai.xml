@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Nov 2023 05:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Nov 2023 05:00:06 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Medical AI Advances, Chatbots Work the Drive-Thru, ChatGPT Racks Up Server Fees, Image Generators Get an Upgrade</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/aug-09-2023/</link>
-      <description>&lt;p&gt;The Batch - AI News &amp; Insights: Do large language models understand the world? As a scientist and engineer, I’ve avoided asking whether an AI system “understands” anything.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Medical AI Advances, Chatbots Work the Drive-Thru, ChatGPT Racks Up Server Fees, Image Generators Get an Upgrade"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/aug-09-2023/</guid>
-      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>GPU Shortage, Affordable Robodog, Humanizing Large Language Models, China's Open LLMs</title>
       <link>https://www.deeplearning.ai/the-batch/tag/aug-16-2023/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>Wild Times at OpenAI, Do Generative AI and Politics Mix?, More GPUs On the Way, Taming Transformers</title>
       <link>https://www.deeplearning.ai/the-batch/tag/nov-22-2023/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2023%2F11%2Funnamed--30--1.jpg&amp;w=3840&amp;q=75" alt="Wild Times at OpenAI, Do Generative AI and Politics Mix?, More GPUs On the Way, Taming Transformers"&gt;</description>
+      <description>&lt;p&gt;The Batch - AI News &amp; Insights: I’m delighted that the crisis at OpenAI, which you can read about below, seems to have been resolved with an agreement in principle for Sam Altman to return as CEO after his sudden firing last week.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Wild Times at OpenAI, Do Generative AI and Politics Mix?, More GPUs On the Way, Taming Transformers"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/nov-22-2023/</guid>
       <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Docs Wary of Medical AI, LLMs for Robots, Siemens' Industrial-Strength Language Model, Testing LLMs</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/nov-29-2023/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2023%2F11%2Funnamed--76-.png&amp;w=3840&amp;q=75" alt="Docs Wary of Medical AI, LLMs for Robots, Siemens' Industrial-Strength Language Model, Testing LLMs"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/nov-29-2023/</guid>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
