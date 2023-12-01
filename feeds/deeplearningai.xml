@@ -6,7 +6,7 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Nov 2023 05:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2023 05:00:13 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>GPU Shortage, Affordable Robodog, Humanizing Large Language Models, China's Open LLMs</title>
