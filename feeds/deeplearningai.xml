@@ -6,7 +6,7 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Dec 2023 05:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Dec 2023 05:00:06 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>Text to 3D Animation, China Restricts Face Recognition, Self-Driving Cars Get Crash Recorders</title>
