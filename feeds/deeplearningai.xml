@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Dec 2023 05:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Dec 2023 05:00:06 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Text to 3D Animation, China Restricts Face Recognition, Self-Driving Cars Get Crash Recorders</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/aug-30-2023/</link>
-      <description>&lt;p&gt;The Batch - AI News &amp; Insights: I’d like to share a part of the origin story of large language models that isn’t widely known. A lot of early work in natural language processing (NLP) was funded by U.S. military intelligence...&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Text to 3D Animation, China Restricts Face Recognition, Self-Driving Cars Get Crash Recorders"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/aug-30-2023/</guid>
-      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>High Wages for AI Talent, Fake Newscasters, DeepMind’s Offspring Proliferate</title>
       <link>https://www.deeplearning.ai/the-batch/tag/sep-06-2023/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>Google’s Answer to GPT-4, Europe's Restrictions on AI, Open Source’s New Champion, Meta’s Vision Architecture</title>
       <link>https://www.deeplearning.ai/the-batch/tag/dec-13-2023/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2023%2F12%2FScreenshot-2023-12-12-at-5.37.30-PM.jpg&amp;w=3840&amp;q=75" alt="Google’s Answer to GPT-4, Europe's Restrictions on AI, Open Source’s New Champion, Meta’s Vision Architecture"&gt;</description>
+      <description>&lt;p&gt;The Batch - AI News &amp; Insights: Last week, I participated in the United States Senate’s Insight Forum on Artificial Intelligence to discuss “Risk, Alignment, &amp; Guarding Against Doomsday Scenarios.”&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Google’s Answer to GPT-4, Europe's Restrictions on AI, Open Source’s New Champion, Meta’s Vision Architecture"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/dec-13-2023/</guid>
       <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top Stories of 2023: Generative Everything, Doomsday Visions, Hollywood Versus AI, AI's Hit Record, Copyright Owners Revolt</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/dec-20-2023/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2023%2F12%2Funnamed--35-.jpg&amp;w=3840&amp;q=75" alt="Top Stories of 2023: Generative Everything, Doomsday Visions, Hollywood Versus AI, AI's Hit Record, Copyright Owners Revolt"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/dec-20-2023/</guid>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
