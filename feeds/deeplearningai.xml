@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 Dec 2023 05:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Dec 2023 05:00:06 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>High Wages for AI Talent, Fake Newscasters, DeepMind’s Offspring Proliferate</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/sep-06-2023/</link>
-      <description>&lt;p&gt;The Batch - AI News &amp; Insights: Amidst rising worry about AI harms both realistic (like job loss) and unrealistic (like human extinction), It’s critical to understand AI’s potential to do tremendous good. Our new specialization, AI for Good...&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="High Wages for AI Talent, Fake Newscasters, DeepMind’s Offspring Proliferate"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/sep-06-2023/</guid>
-      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>ChatGPT Keeps Your Secrets, Microsoft Embraces GenAI Risk, Google Demands GenAI Disclosure</title>
       <link>https://www.deeplearning.ai/the-batch/tag/sep-13-2023/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>Top Stories of 2023: Generative Everything, Doomsday Visions, Hollywood Versus AI, AI's Hit Record, Copyright Owners Revolt</title>
       <link>https://www.deeplearning.ai/the-batch/tag/dec-20-2023/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2023%2F12%2Funnamed--35-.jpg&amp;w=3840&amp;q=75" alt="Top Stories of 2023: Generative Everything, Doomsday Visions, Hollywood Versus AI, AI's Hit Record, Copyright Owners Revolt"&gt;</description>
+      <description>&lt;p&gt;The Batch - AI News &amp; Insights: Last week, I attended the NeurIPS conference in New Orleans. It was fun to catch up with old friends, make new ones, and also get a wide scan of current AI research.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Top Stories of 2023: Generative Everything, Doomsday Visions, Hollywood Versus AI, AI's Hit Record, Copyright Owners Revolt"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/dec-20-2023/</guid>
       <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hopes for 2024 from Anastasis Germanidis, Sara Hooker, Percy Liang, Sasha Luccioni, Pelonomi Moiloa, Kevin Scott</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/dec-27-2023/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2023%2F12%2Funnamed--42-.jpg&amp;w=3840&amp;q=75" alt="Hopes for 2024 from Anastasis Germanidis, Sara Hooker, Percy Liang, Sasha Luccioni, Pelonomi Moiloa, Kevin Scott"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/dec-27-2023/</guid>
+      <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
