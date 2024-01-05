@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Jan 2024 05:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jan 2024 05:00:06 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>ChatGPT Keeps Your Secrets, Microsoft Embraces GenAI Risk, Google Demands GenAI Disclosure</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/sep-13-2023/</link>
-      <description>&lt;p&gt;The Batch - AI News &amp; Insights: I recently spoke about “Opportunities in AI” at Stanford’s Graduate School of Business. I want to share a few observations from that presentation.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="ChatGPT Keeps Your Secrets, Microsoft Embraces GenAI Risk, Google Demands GenAI Disclosure"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/sep-13-2023/</guid>
-      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Text-to-Music Generation, Military Drone Swarm, Machine Translation Blocks Asylum Seekers</title>
       <link>https://www.deeplearning.ai/the-batch/tag/sep-20-2023/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>Hopes for 2024 from Anastasis Germanidis, Sara Hooker, Percy Liang, Sasha Luccioni, Pelonomi Moiloa, Kevin Scott</title>
       <link>https://www.deeplearning.ai/the-batch/tag/dec-27-2023/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2023%2F12%2Funnamed--42-.jpg&amp;w=3840&amp;q=75" alt="Hopes for 2024 from Anastasis Germanidis, Sara Hooker, Percy Liang, Sasha Luccioni, Pelonomi Moiloa, Kevin Scott"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: AI is progressing faster than ever. This is thrilling, yet rapid change can be disorienting. In such times, it’s useful to follow Jeff Bezos’ advice to think about not only what is changing but also what will stay the same.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Hopes for 2024 from Anastasis Germanidis, Sara Hooker, Percy Liang, Sasha Luccioni, Pelonomi Moiloa, Kevin Scott"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/dec-27-2023/</guid>
       <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-4 Tells Lies, Microscopes Recognize Cancer, AI Fights Climate Change, Paris Spawns AI Startups</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/jan-03-2024/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F01%2Funnamed--45-.jpg&amp;w=3840&amp;q=75" alt="GPT-4 Tells Lies, Microscopes Recognize Cancer, AI Fights Climate Change, Paris Spawns AI Startups"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jan-03-2024/</guid>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
