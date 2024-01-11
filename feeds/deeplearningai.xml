@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Jan 2024 05:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2024 05:00:05 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Text-to-Music Generation, Military Drone Swarm, Machine Translation Blocks Asylum Seekers</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/sep-20-2023/</link>
-      <description>&lt;p&gt;The Batch - AI News &amp; Insights: While AI is a general-purpose technology that’s useful for many things, it isn’t good for every task under the sun. How can we decide which concrete use cases to build? If you’re helping a business figure out where to apply AI...&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Text-to-Music Generation, Military Drone Swarm, Machine Translation Blocks Asylum Seekers"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/sep-20-2023/</guid>
-      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>ChatGPT Goes Multimodal, Dating Apps Embrace AI, Microsoft Doubles Down on Chatbots, AI Drives Energy Efficiency</title>
       <link>https://www.deeplearning.ai/the-batch/tag/sep-27-2023/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>GPT-4 Tells Lies, Microscopes Recognize Cancer, AI Fights Climate Change, Paris Spawns AI Startups</title>
       <link>https://www.deeplearning.ai/the-batch/tag/jan-03-2024/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F01%2Funnamed--45-.jpg&amp;w=3840&amp;q=75" alt="GPT-4 Tells Lies, Microscopes Recognize Cancer, AI Fights Climate Change, Paris Spawns AI Startups"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: Last week, the New York Times (NYT) filed a lawsuit against OpenAI and Microsoft, alleging massive copyright infringements. The suit...&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="GPT-4 Tells Lies, Microscopes Recognize Cancer, AI Fights Climate Change, Paris Spawns AI Startups"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jan-03-2024/</guid>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Discovers New Antibiotics, OpenAI Revamps Safety, Researchers Define AGI, LLMs Go Multimodal</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/jan-10-2024/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F01%2FThe-Batch-ads-and-exclusive-banners--100-.png&amp;w=3840&amp;q=75" alt="AI Discovers New Antibiotics, OpenAI Revamps Safety, Researchers Define AGI, LLMs Go Multimodal"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jan-10-2024/</guid>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
