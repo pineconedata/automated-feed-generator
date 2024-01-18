@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Jan 2024 05:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 05:00:06 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>ChatGPT Goes Multimodal, Dating Apps Embrace AI, Microsoft Doubles Down on Chatbots, AI Drives Energy Efficiency</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/sep-27-2023/</link>
-      <description>&lt;p&gt;The Batch - AI News &amp; Insights: As you can read below, improvements in chatbots have opened a market for bots integrated with dating apps. I’m excited about the possibilities for large language models (LLMs) in romantic relationships…&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="ChatGPT Goes Multimodal, Dating Apps Embrace AI, Microsoft Doubles Down on Chatbots, AI Drives Energy Efficiency"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/sep-27-2023/</guid>
-      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>AI's New Power Couple, Movie Industry Limits AI, YouTube Goes Generative, More Web Data = More Bias</title>
       <link>https://www.deeplearning.ai/the-batch/tag/oct-04-2023/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>AI Discovers New Antibiotics, OpenAI Revamps Safety, Researchers Define AGI, LLMs Go Multimodal</title>
       <link>https://www.deeplearning.ai/the-batch/tag/jan-10-2024/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F01%2FThe-Batch-ads-and-exclusive-banners--100-.png&amp;w=3840&amp;q=75" alt="AI Discovers New Antibiotics, OpenAI Revamps Safety, Researchers Define AGI, LLMs Go Multimodal"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: It is only rarely that, after reading a research paper, I feel like giving the authors a standing ovation. But I felt that way after finishing Direct Preference Optimization (DPO) by...&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="AI Discovers New Antibiotics, OpenAI Revamps Safety, Researchers Define AGI, LLMs Go Multimodal"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jan-10-2024/</guid>
       <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Invades Consumer Products, OpenAI’s Platform Play, Watermarks for Synthetic Media, Generated Musical Accompaniments</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/jan-17-2024/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F01%2Funnamed--90-.png&amp;w=3840&amp;q=75" alt="AI Invades Consumer Products, OpenAI’s Platform Play, Watermarks for Synthetic Media, Generated Musical Accompaniments"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jan-17-2024/</guid>
+      <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
