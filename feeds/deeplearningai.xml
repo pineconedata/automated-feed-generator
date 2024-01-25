@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Jan 2024 05:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 05:00:06 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>AI's New Power Couple, Movie Industry Limits AI, YouTube Goes Generative, More Web Data = More Bias</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/oct-04-2023/</link>
-      <description>&lt;p&gt;The Batch - AI News &amp; Insights: Andrej Karpathy, one of the Heroes of Deep Learning who currently works at OpenAI, quipped, “The hottest programming language is English.” While I appreciate the sentiment...&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="AI's New Power Couple, Movie Industry Limits AI, YouTube Goes Generative, More Web Data = More Bias"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/oct-04-2023/</guid>
-      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>GPT-4 Opens Its Eyes, Meta’s Generative Facelift, Newsrooms Respond to AI, Beware Training on Generated Data</title>
       <link>https://www.deeplearning.ai/the-batch/tag/oct-11-2023/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>AI Invades Consumer Products, OpenAI’s Platform Play, Watermarks for Synthetic Media, Generated Musical Accompaniments</title>
       <link>https://www.deeplearning.ai/the-batch/tag/jan-17-2024/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F01%2Funnamed--90-.png&amp;w=3840&amp;q=75" alt="AI Invades Consumer Products, OpenAI’s Platform Play, Watermarks for Synthetic Media, Generated Musical Accompaniments"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: As I wrote in an earlier letter, whether AI is sentient or conscious is a philosophical question rather than a scientific one, since there is no widely agreed-upon definition and test for these terms.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="AI Invades Consumer Products, OpenAI’s Platform Play, Watermarks for Synthetic Media, Generated Musical Accompaniments"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jan-17-2024/</guid>
       <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Machine Learning Detects Cancer Early, Language Model Learns Geometry, AI Creates Jobs, Nations Invest in Homegrown AI</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/jan-24-2024/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F01%2Funnamed--92--1.png&amp;w=3840&amp;q=75" alt="Machine Learning Detects Cancer Early, Language Model Learns Geometry, AI Creates Jobs, Nations Invest in Homegrown AI"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jan-24-2024/</guid>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
