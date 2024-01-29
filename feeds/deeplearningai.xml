@@ -6,7 +6,7 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Jan 2024 05:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 05:00:05 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>GPT-4 Opens Its Eyes, Meta’s Generative Facelift, Newsrooms Respond to AI, Beware Training on Generated Data</title>
