@@ -6,7 +6,7 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Feb 2024 05:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Feb 2024 05:00:05 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>AI for Brain Surgery, Microsoft's ChatGPT Bill, Google's Generative Phones, Better Prompts</title>
