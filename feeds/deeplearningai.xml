@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Feb 2024 05:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 05:00:06 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Feel the Fear! AI Turns Deadly, Data Disappears, Criminals Clone Voices, Hype Overshoots Reality</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/oct-25-2023/</link>
-      <description>&lt;p&gt;The Batch - AI News &amp; Insights: Welcome to the Halloween special issue of The Batch, where we take a look at fears associated with AI. In that spirit, I’d like to address a fear of mine: Sensationalist claims that AI could bring about human extinction will cause serious harm.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Feel the Fear! AI Turns Deadly, Data Disappears, Criminals Clone Voices, Hype Overshoots Reality"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/oct-25-2023/</guid>
-      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Problematic White House AI Policy, Parked Cruise Robotaxis, Transparency For Foundation Models, Synthetic Data Helps Image Generators</title>
       <link>https://www.deeplearning.ai/the-batch/tag/nov-01-2023/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>Taylor Swift Deepfakes, GPT-4 Biothreats, New Leaderboards, LLMs That Get Inside Your Head</title>
       <link>https://www.deeplearning.ai/the-batch/tag/feb-07-2024/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F02%2Funnamed--50--1.jpg&amp;w=3840&amp;q=75" alt="Taylor Swift Deepfakes, GPT-4 Biothreats, New Leaderboards, LLMs That Get Inside Your Head"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: On the LMSYS Chatbot Arena Leaderboard, which pits chatbots against each other anonymously and prompts users to judge which one generated a better answer, Google’s Bard (Gemini Pro)&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Taylor Swift Deepfakes, GPT-4 Biothreats, New Leaderboards, LLMs That Get Inside Your Head"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/feb-07-2024/</guid>
       <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Recovers Ancient Scrolls, GPUs Strain Power Grid, Government Restricts Fake Voices, Better Image Generation</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/feb-14-2024/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F02%2Funnamed--97-.png&amp;w=3840&amp;q=75" alt="AI Recovers Ancient Scrolls, GPUs Strain Power Grid, Government Restricts Fake Voices, Better Image Generation"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/feb-14-2024/</guid>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
