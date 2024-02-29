@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Feb 2024 05:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 05:00:06 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>OpenAI Empowers Developers, AI Risk in the Spotlight, Decoding Schizophrenic Language, Synthetic Data Helps Image Classification</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/nov-08-2023/</link>
-      <description>&lt;p&gt;The Batch - AI News &amp; Insights: The past week has been an unusual split-screen time in AI. On one side, I see rapidly developing innovations from OpenAI, as well as Elon Musk's Grok and Kai-Fu Lee's open source Yi-34B large language model.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="OpenAI Empowers Developers, AI Risk in the Spotlight, Decoding Schizophrenic Language, Synthetic Data Helps Image Classification"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/nov-08-2023/</guid>
-      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Cyberattack Strikes OpenAI, Actors Reach Accord on AI, Anthropic Goes Steady with Google and Amazon</title>
       <link>https://www.deeplearning.ai/the-batch/tag/nov-15-2023/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>Generated Video Gets Real(er), Nvidia Competitor Emerges, Neural Nets for Gymnastics, Efficient Optimizer</title>
       <link>https://www.deeplearning.ai/the-batch/tag/feb-21-2024/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F02%2Funnamed--100--1.png&amp;w=3840&amp;q=75" alt="Generated Video Gets Real(er), Nvidia Competitor Emerges, Neural Nets for Gymnastics, Efficient Optimizer"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: Earlier this month, my team AI Fund held its annual co-founder and CEO summit, where many of our collaborators gathered in California for two days to discuss how to build AI companies.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Generated Video Gets Real(er), Nvidia Competitor Emerges, Neural Nets for Gymnastics, Efficient Optimizer"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/feb-21-2024/</guid>
       <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google's Troubled Gemini Launch, OpenAI's Next Act, Groq's Blazing Inference Speed, Faster Network Pruning</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/feb-28-2024/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F02%2FPYTHONPACKAGE.png&amp;w=3840&amp;q=75" alt="Google's Troubled Gemini Launch, OpenAI's Next Act, Groq's Blazing Inference Speed, Faster Network Pruning"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/feb-28-2024/</guid>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
