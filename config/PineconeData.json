@@ -1,0 +1,13 @@
+{
+  "website_url": "https://www.pineconedata.com",
+  "website_title": "Pinecone Data",
+  "website_description": "The official blog of Pinecone Data.",
+  "posts_list_selector": "ul.posts-list > li > article",
+  "title_selector": "h2.post-title",
+  "link_selector": "a",
+  "image_selector": "div.post-image > a > img",
+  "description_selector": "div.post-entry",
+  "description_type": "html",
+  "date_selector": "p.post-meta",
+  "date_format": "Posted on %B %d, %Y"
+}
