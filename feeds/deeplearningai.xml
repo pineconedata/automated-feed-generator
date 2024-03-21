@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Mar 2024 04:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 04:00:06 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Docs Wary of Medical AI, LLMs for Robots, Siemens' Industrial-Strength Language Model, Testing LLMs</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/nov-29-2023/</link>
-      <description>&lt;p&gt;The Batch - AI News &amp; Insights: One year since the launch of ChatGPT on November 30, 2022, it’s amazing how many large language models are available.  A year ago, ChatGPT was pretty much the only game in town for consumers (using a web user interface)...&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Docs Wary of Medical AI, LLMs for Robots, Siemens' Industrial-Strength Language Model, Testing LLMs"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/nov-29-2023/</guid>
-      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Amazon's New Chatbot, Pedestrian Detection, Limits on AI in Insurance, a Robot That Can Find Your Keys</title>
       <link>https://www.deeplearning.ai/the-batch/tag/dec-06-2023/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>Anthropic Ups the Ante, India Warns Developers, Google Tests Generative News, Learning Language Without Language Training</title>
       <link>https://www.deeplearning.ai/the-batch/tag/mar-13-2024/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F03%2Funnamed--51-.jpg&amp;w=3840&amp;q=75" alt="Anthropic Ups the Ante, India Warns Developers, Google Tests Generative News, Learning Language Without Language Training"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: I’ve noticed a trend in how generative AI applications are built that might affect both big companies and developers: The gravity of data is decreasing.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Anthropic Ups the Ante, India Warns Developers, Google Tests Generative News, Learning Language Without Language Training"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/mar-13-2024/</guid>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Robots Talk Back, AI Security Risks, Political Deepfakes, Pretrained Models on the Cheap</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/mar-20-2024/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F03%2FThe-Batch-ads-and-exclusive-banners---2024-03-20T192329.626.png&amp;w=3840&amp;q=75" alt="Robots Talk Back, AI Security Risks, Political Deepfakes, Pretrained Models on the Cheap"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/mar-20-2024/</guid>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
