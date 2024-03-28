@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 Mar 2024 04:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 04:00:06 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Amazon's New Chatbot, Pedestrian Detection, Limits on AI in Insurance, a Robot That Can Find Your Keys</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/dec-06-2023/</link>
-      <description>&lt;p&gt;The Batch - AI News &amp; Insights: Large language models, or LLMs, have transformed how we process text. Large vision models, or LVMs, are starting to change how we process images as well.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Amazon's New Chatbot, Pedestrian Detection, Limits on AI in Insurance, a Robot That Can Find Your Keys"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/dec-06-2023/</guid>
-      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Google’s Answer to GPT-4, Europe's Restrictions on AI, Open Source’s New Champion, Meta’s Vision Architecture</title>
       <link>https://www.deeplearning.ai/the-batch/tag/dec-13-2023/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>Robots Talk Back, AI Security Risks, Political Deepfakes, Pretrained Models on the Cheap</title>
       <link>https://www.deeplearning.ai/the-batch/tag/mar-20-2024/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F03%2FThe-Batch-ads-and-exclusive-banners---2024-03-20T192329.626.png&amp;w=3840&amp;q=75" alt="Robots Talk Back, AI Security Risks, Political Deepfakes, Pretrained Models on the Cheap"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: I think AI agent workflows will drive massive AI progress this year — perhaps even more than the next generation of foundation models. This is an important trend, and I urge everyone who works in AI to pay attention to it.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Robots Talk Back, AI Security Risks, Political Deepfakes, Pretrained Models on the Cheap"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/mar-20-2024/</guid>
       <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>One Agent For Many Worlds, Cross-Species Cell Embeddings, U.S. Deploys AI Targeting, Robo Football Gets Real</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/mar-27-2024/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F03%2FThe-Batch-ads-and-exclusive-banners---2024-03-27T124456.072.png&amp;w=3840&amp;q=75" alt="One Agent For Many Worlds, Cross-Species Cell Embeddings, U.S. Deploys AI Targeting, Robo Football Gets Real"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/mar-27-2024/</guid>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
