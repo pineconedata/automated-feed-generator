@@ -6,7 +6,7 @@
     <description>The official blog of Pinecone Data.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 May 2024 04:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 04:00:17 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>Website Launch</title>
@@ -15,7 +15,10 @@
         
         The website for Pinecone Data is now live! This website was built with Jekyll, a static website generator, and GitHub Pages, a website hosting solution that is built directly from your GitHub repository.
 
+
         
+        
+          &lt;a href="https://www.pineconedata.com/2023-10-24-site-launch/" class="post-read-more"&gt;[Read&amp;nbsp;More]&lt;/a&gt;
         
       &lt;img src="https://jekyllrb.com/img/logo-2x.png" alt="Website Launch"&gt;</description>
       <guid isPermaLink="false">https://www.pineconedata.com/2023-10-24-site-launch/</guid>
