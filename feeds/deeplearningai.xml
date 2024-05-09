@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 May 2024 04:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 04:00:06 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>AI Invades Consumer Products, OpenAI’s Platform Play, Watermarks for Synthetic Media, Generated Musical Accompaniments</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/jan-17-2024/</link>
-      <description>&lt;p&gt;The Batch AI News and Insights: As I wrote in an earlier letter, whether AI is sentient or conscious is a philosophical question rather than a scientific one, since there is no widely agreed-upon definition and test for these terms.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="AI Invades Consumer Products, OpenAI’s Platform Play, Watermarks for Synthetic Media, Generated Musical Accompaniments"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jan-17-2024/</guid>
-      <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Machine Learning Detects Cancer Early, Language Model Learns Geometry, AI Creates Jobs, Nations Invest in Homegrown AI</title>
       <link>https://www.deeplearning.ai/the-batch/tag/jan-24-2024/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>Apple's Tiny LLMs, Amazon Rethinks Cashier-Free Stores, Predicting Scientific Discoveries</title>
       <link>https://www.deeplearning.ai/the-batch/issue-247/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F05%2Funnamed--57--1.jpg&amp;w=3840&amp;q=75" alt="Apple's Tiny LLMs, Amazon Rethinks Cashier-Free Stores, Predicting Scientific Discoveries"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: Inexpensive token generation and agentic workflows for large language models (LLMs) open up intriguing new possibilities for training LLMs on synthetic data. Pretraining...&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Apple's Tiny LLMs, Amazon Rethinks Cashier-Free Stores, Predicting Scientific Discoveries"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-247/</guid>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI Licenses News Archives, Generative Coding From Plan to Pull Request, Recognizing Landmines, Streamlined Inference</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-248/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F05%2Funnamed---2024-05-08T152327.782.png&amp;w=3840&amp;q=75" alt="OpenAI Licenses News Archives, Generative Coding From Plan to Pull Request, Recognizing Landmines, Streamlined Inference"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-248/</guid>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

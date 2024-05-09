@@ -6,7 +6,7 @@
     <description>The official blog of Pinecone Data.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 May 2024 04:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 04:00:16 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>Website Launch</title>
@@ -51,6 +51,20 @@
       &lt;img src="https://www.pineconedata.com/assets/img/jupyterlab_icon.jpeg" alt="Jump into Data Science with JupyterLab"&gt;</description>
       <guid isPermaLink="false">https://www.pineconedata.com/2023-11-14-install-jupyterlab/</guid>
       <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Full Guide to Data Science Projects using Basketball</title>
+      <link>https://www.pineconedata.com/2024-04-11-basketball-data-acquisition/</link>
+      <description>
+        
+        In this guide, we’ll walk through the process of acquiring, preprocessing, and cleaning a data set. These steps are essential for any data analysis project to make sure the dataset is ready for analysis and visualization. The dataset we’ll be using today contains basketball player statistics for the 2023-2024 NCAA...
+        
+        
+          &lt;a href="https://www.pineconedata.com/2024-04-11-basketball-data-acquisition/" class="post-read-more"&gt;[Read&amp;nbsp;More]&lt;/a&gt;
+        
+      &lt;img src="https://www.pineconedata.com/assets/img/posts/2024-04-11-basketball-data-acquisition/ncaa.jpg" alt="A Full Guide to Data Science Projects using Basketball"&gt;</description>
+      <guid isPermaLink="false">https://www.pineconedata.com/2024-04-11-basketball-data-acquisition/</guid>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
