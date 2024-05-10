@@ -6,7 +6,7 @@
     <description>The official blog of Pinecone Data.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 May 2024 04:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 04:00:14 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>Website Launch</title>
@@ -57,7 +57,7 @@
       <link>https://www.pineconedata.com/2024-04-11-basketball-data-acquisition/</link>
       <description>
         
-        In this guide, we’ll walk through the process of acquiring, preprocessing, and cleaning a data set. These steps are essential for any data analysis project to make sure the dataset is ready for analysis and visualization. The dataset we’ll be using today contains basketball player statistics for the 2023-2024 NCAA...
+        In this guide, we’ll walk through the entire process of a data science project. This includes initial steps like data acquisition, preprocessing, and cleaning, as well as more advanced steps like feature engineering, creating visualizations, and machine learning. The dataset we’ll be using in this project contains basketball player statistics...
         
         
           &lt;a href="https://www.pineconedata.com/2024-04-11-basketball-data-acquisition/" class="post-read-more"&gt;[Read&amp;nbsp;More]&lt;/a&gt;
