@@ -6,7 +6,7 @@
     <description>The official blog of Pinecone Data.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 May 2024 04:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 04:00:17 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>Website Launch</title>
@@ -53,16 +53,16 @@
       <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>A Full Guide to Data Science Projects using Basketball</title>
+      <title>Outlier or Caitlin Clark? A Data Science Project</title>
       <link>https://www.pineconedata.com/2024-04-11-basketball-data-acquisition/</link>
       <description>
         
-        In this guide, we’ll walk through the entire process of a data science project. This includes initial steps like data acquisition, preprocessing, and cleaning, as well as more advanced steps like feature engineering, creating visualizations, and machine learning. The dataset we’ll be using in this project contains basketball player statistics...
+        Today we’ll go over how to start a new data science project by acquiring the data (using APIs and a CSV export). This is the first part of a series that will walk through the entire process of a data science project - from initial steps like data acquisition, preprocessing,...
         
         
           &lt;a href="https://www.pineconedata.com/2024-04-11-basketball-data-acquisition/" class="post-read-more"&gt;[Read&amp;nbsp;More]&lt;/a&gt;
         
-      &lt;img src="https://www.pineconedata.com/assets/img/posts/2024-04-11-basketball-data-acquisition/ncaa.jpg" alt="A Full Guide to Data Science Projects using Basketball"&gt;</description>
+      &lt;img src="https://www.pineconedata.com/assets/img/posts/2024-04-11-basketball-data-acquisition/ncaa.jpg" alt="Outlier or Caitlin Clark? A Data Science Project"&gt;</description>
       <guid isPermaLink="false">https://www.pineconedata.com/2024-04-11-basketball-data-acquisition/</guid>
       <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
     </item>
