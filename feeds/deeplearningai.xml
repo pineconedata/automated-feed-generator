@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 May 2024 04:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 04:00:06 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Machine Learning Detects Cancer Early, Language Model Learns Geometry, AI Creates Jobs, Nations Invest in Homegrown AI</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/jan-24-2024/</link>
-      <description>&lt;p&gt;The Batch AI News and Insights: Last week, I attended the World Economic Forum, an annual meeting of leaders in government, business, and culture at Davos, Switzerland.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Machine Learning Detects Cancer Early, Language Model Learns Geometry, AI Creates Jobs, Nations Invest in Homegrown AI"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jan-24-2024/</guid>
-      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>AI Jobs Proliferate, Big Compute Giveaway, Generated Video Upgrade, Higher Yields for Small Farms</title>
       <link>https://www.deeplearning.ai/the-batch/tag/jan-31-2024/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>OpenAI Licenses News Archives, Generative Coding From Plan to Pull Request, Recognizing Landmines, Streamlined Inference</title>
       <link>https://www.deeplearning.ai/the-batch/issue-248/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F05%2Funnamed---2024-05-08T152327.782.png&amp;w=3840&amp;q=75" alt="OpenAI Licenses News Archives, Generative Coding From Plan to Pull Request, Recognizing Landmines, Streamlined Inference"&gt;</description>
+      <description>&lt;p&gt;Last week, I spoke about AI and regulation at the U.S. Capitol at an event that was attended by legislative and business leaders. I’m encouraged by the progress the open source community has made fending off regulations that would have stifled innovation.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="OpenAI Licenses News Archives, Generative Coding From Plan to Pull Request, Recognizing Landmines, Streamlined Inference"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-248/</guid>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI's Rules for Model Behavior, Better Brain-Controlled Robots, AlphaFold 3 Covers All Biochemistry, AI Oasis in the Desert</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-249/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F05%2Funnamed--59-.jpg&amp;w=3840&amp;q=75" alt="OpenAI's Rules for Model Behavior, Better Brain-Controlled Robots, AlphaFold 3 Covers All Biochemistry, AI Oasis in the Desert"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-249/</guid>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
