@@ -6,7 +6,7 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 May 2024 04:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 04:00:06 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>AI Jobs Proliferate, Big Compute Giveaway, Generated Video Upgrade, Higher Yields for Small Farms</title>
@@ -72,9 +72,9 @@
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Microsoft Absorbs Inflection, Nvidia's New GPUs, Managing AI Bio Risk, More Factual LLMs</title>
+      <title>Microsoft Absorbs Inflection, Nvidia’s New GPUs, Managing AI Bio Risk, More Factual LLMs</title>
       <link>https://www.deeplearning.ai/the-batch/tag/apr-03-2024/</link>
-      <description>&lt;p&gt;The Batch AI News and Insights: Tool use, in which an LLM is given functions it can request to call for gathering information, taking action, or manipulating data, is a key design pattern of AI agentic workflows.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Microsoft Absorbs Inflection, Nvidia's New GPUs, Managing AI Bio Risk, More Factual LLMs"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: Tool use, in which an LLM is given functions it can request to call for gathering information, taking action, or manipulating data, is a key design pattern of AI agentic workflows.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Microsoft Absorbs Inflection, Nvidia’s New GPUs, Managing AI Bio Risk, More Factual LLMs"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/apr-03-2024/</guid>
       <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
     </item>
@@ -86,9 +86,9 @@
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI Agents With Low/No Code, Hallucinations Create Security Holes, Tuning for RAG Performance, GPT Store's Lax Moderation</title>
+      <title>AI Agents With Low/No Code, Hallucinations Create Security Holes, Tuning for RAG Performance, GPT Store’s Lax Moderation</title>
       <link>https://www.deeplearning.ai/the-batch/tag/apr-17-2024/</link>
-      <description>&lt;p&gt;The Batch AI News and Insights: Multi-agent collaboration is the last of the four key AI agentic design patterns that I’ve described in recent letters. Given a complex task like writing software, a multi-agent approach would break...&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="AI Agents With Low/No Code, Hallucinations Create Security Holes, Tuning for RAG Performance, GPT Store's Lax Moderation"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: Multi-agent collaboration is the last of the four key AI agentic design patterns that I’ve described in recent letters. Given a complex task like writing software, a multi-agent approach would break...&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="AI Agents With Low/No Code, Hallucinations Create Security Holes, Tuning for RAG Performance, GPT Store’s Lax Moderation"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/apr-17-2024/</guid>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
     </item>
@@ -100,9 +100,9 @@
       <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Apple's Tiny LLMs, Amazon Rethinks Cashier-Free Stores, Predicting Scientific Discoveries</title>
+      <title>Apple’s Tiny LLMs, Amazon Rethinks Cashier-Free Stores, Predicting Scientific Discoveries</title>
       <link>https://www.deeplearning.ai/the-batch/issue-247/</link>
-      <description>&lt;p&gt;The Batch AI News and Insights: Inexpensive token generation and agentic workflows for large language models (LLMs) open up intriguing new possibilities for training LLMs on synthetic data. Pretraining...&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Apple's Tiny LLMs, Amazon Rethinks Cashier-Free Stores, Predicting Scientific Discoveries"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: Inexpensive token generation and agentic workflows for large language models (LLMs) open up intriguing new possibilities for training LLMs on synthetic data. Pretraining...&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Apple’s Tiny LLMs, Amazon Rethinks Cashier-Free Stores, Predicting Scientific Discoveries"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-247/</guid>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
     </item>
@@ -114,9 +114,9 @@
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI's Rules for Model Behavior, Better Brain-Controlled Robots, AlphaFold 3 Covers All Biochemistry, AI Oasis in the Desert</title>
+      <title>OpenAI’s Rules for Model Behavior, Better Brain-Controlled Robots, AlphaFold 3 Covers All Biochemistry, AI Oasis in the Desert</title>
       <link>https://www.deeplearning.ai/the-batch/issue-249/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F05%2Funnamed--59-.jpg&amp;w=3840&amp;q=75" alt="OpenAI's Rules for Model Behavior, Better Brain-Controlled Robots, AlphaFold 3 Covers All Biochemistry, AI Oasis in the Desert"&gt;</description>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F05%2Funnamed--59-.jpg&amp;w=3840&amp;q=75" alt="OpenAI’s Rules for Model Behavior, Better Brain-Controlled Robots, AlphaFold 3 Covers All Biochemistry, AI Oasis in the Desert"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-249/</guid>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
     </item>
