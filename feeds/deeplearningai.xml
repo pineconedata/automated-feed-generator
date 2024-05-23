@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 May 2024 04:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 04:00:06 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>AI Jobs Proliferate, Big Compute Giveaway, Generated Video Upgrade, Higher Yields for Small Farms</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/jan-31-2024/</link>
-      <description>&lt;p&gt;The Batch AI News and Insights: Last year, a number of large businesses and individuals went to the media and governments and pushed the message that AI is scary, impossible to control, and might even lead to human extinction.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="AI Jobs Proliferate, Big Compute Giveaway, Generated Video Upgrade, Higher Yields for Small Farms"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jan-31-2024/</guid>
-      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Taylor Swift Deepfakes, GPT-4 Biothreats, New Leaderboards, LLMs That Get Inside Your Head</title>
       <link>https://www.deeplearning.ai/the-batch/tag/feb-07-2024/</link>
@@ -109,16 +102,23 @@
     <item>
       <title>OpenAI Licenses News Archives, Generative Coding From Plan to Pull Request, Recognizing Landmines, Streamlined Inference</title>
       <link>https://www.deeplearning.ai/the-batch/issue-248/</link>
-      <description>&lt;p&gt;Last week, I spoke about AI and regulation at the U.S. Capitol at an event that was attended by legislative and business leaders. I’m encouraged by the progress the open source community has made fending off regulations that would have stifled innovation.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="OpenAI Licenses News Archives, Generative Coding From Plan to Pull Request, Recognizing Landmines, Streamlined Inference"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: Last week, I spoke about AI and regulation at the U.S. Capitol at an event that was attended by legislative and business leaders. I’m encouraged by the progress the open source community has made fending off regulations that would have stifled innovation.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="OpenAI Licenses News Archives, Generative Coding From Plan to Pull Request, Recognizing Landmines, Streamlined Inference"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-248/</guid>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI’s Rules for Model Behavior, Better Brain-Controlled Robots, AlphaFold 3 Covers All Biochemistry, AI Oasis in the Desert</title>
       <link>https://www.deeplearning.ai/the-batch/issue-249/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F05%2Funnamed--59-.jpg&amp;w=3840&amp;q=75" alt="OpenAI’s Rules for Model Behavior, Better Brain-Controlled Robots, AlphaFold 3 Covers All Biochemistry, AI Oasis in the Desert"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: In the last couple of days, Google announced a doubling of Gemini Pro 1.5's input context window from 1 million to 2 million tokens, and OpenAI released GPT-4o...&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="OpenAI’s Rules for Model Behavior, Better Brain-Controlled Robots, AlphaFold 3 Covers All Biochemistry, AI Oasis in the Desert"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-249/</guid>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Music Industry Titan Targets AI, End-to-End Multimodality, Millions of Tokens of Context, More Responsive Text-to-Image</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-250/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F05%2Funnamed---2024-05-22T145628.272.png&amp;w=3840&amp;q=75" alt="Music Industry Titan Targets AI, End-to-End Multimodality, Millions of Tokens of Context, More Responsive Text-to-Image"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-250/</guid>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
