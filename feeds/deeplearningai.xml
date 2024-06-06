@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Jun 2024 04:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 04:00:06 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>AI Recovers Ancient Scrolls, GPUs Strain Power Grid, Government Restricts Fake Voices, Better Image Generation</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/feb-14-2024/</link>
-      <description>&lt;p&gt;The Batch AI News and Insights: The rise of cloud-hosted AI software has brought much discussion about the privacy implications of using it. But I find that users, including both consumers and developers...&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="AI Recovers Ancient Scrolls, GPUs Strain Power Grid, Government Restricts Fake Voices, Better Image Generation"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/feb-14-2024/</guid>
-      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Generated Video Gets Real(er), Nvidia Competitor Emerges, Neural Nets for Gymnastics, Efficient Optimizer</title>
       <link>https://www.deeplearning.ai/the-batch/tag/feb-21-2024/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>Heart-Risk Model Saves Lives, Self-Driving on Unruly Roads, Knowledge Workers Embrace AI, Richer Context for RAG</title>
       <link>https://www.deeplearning.ai/the-batch/issue-251/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F05%2Funnamed--61--1.jpg&amp;w=3840&amp;q=75" alt="Heart-Risk Model Saves Lives, Self-Driving on Unruly Roads, Knowledge Workers Embrace AI, Richer Context for RAG"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: A barrier to faster progress in generative AI is evaluations (evals), particularly of custom AI applications that generate free-form text.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Heart-Risk Model Saves Lives, Self-Driving on Unruly Roads, Knowledge Workers Embrace AI, Richer Context for RAG"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-251/</guid>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AI PC Arrives, OpenAI Used For Disinformation, U.S. and China Seek AI Agreement, Training Models to Reason</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-252/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F06%2Funnamed--62-.jpg&amp;w=3840&amp;q=75" alt="The AI PC Arrives, OpenAI Used For Disinformation, U.S. and China Seek AI Agreement, Training Models to Reason"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-252/</guid>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
