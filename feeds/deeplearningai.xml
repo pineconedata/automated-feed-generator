@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Jun 2024 04:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 04:00:06 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Generated Video Gets Real(er), Nvidia Competitor Emerges, Neural Nets for Gymnastics, Efficient Optimizer</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/feb-21-2024/</link>
-      <description>&lt;p&gt;The Batch AI News and Insights: Earlier this month, my team AI Fund held its annual co-founder and CEO summit, where many of our collaborators gathered in California for two days to discuss how to build AI companies.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Generated Video Gets Real(er), Nvidia Competitor Emerges, Neural Nets for Gymnastics, Efficient Optimizer"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/feb-21-2024/</guid>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Google's Troubled Gemini Launch, OpenAI's Next Act, Groq's Blazing Inference Speed, Faster Network Pruning</title>
       <link>https://www.deeplearning.ai/the-batch/tag/feb-28-2024/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>The AI PC Arrives, OpenAI Used For Disinformation, U.S. and China Seek AI Agreement, Training Models to Reason</title>
       <link>https://www.deeplearning.ai/the-batch/issue-252/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F06%2Funnamed--62-.jpg&amp;w=3840&amp;q=75" alt="The AI PC Arrives, OpenAI Used For Disinformation, U.S. and China Seek AI Agreement, Training Models to Reason"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: The effort to protect innovation and open source continues. I believe we’re all better off if anyone can carry out basic AI research and share their innovations.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="The AI PC Arrives, OpenAI Used For Disinformation, U.S. and China Seek AI Agreement, Training Models to Reason"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-252/</guid>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple's Gen AI Strategy, Stability's Copyright-Clear Audio Generator, International Safety Agreements, LLMs Play Doctor</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-253/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F06%2Funnamed--63--1.jpg&amp;w=3840&amp;q=75" alt="Apple's Gen AI Strategy, Stability's Copyright-Clear Audio Generator, International Safety Agreements, LLMs Play Doctor"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-253/</guid>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
