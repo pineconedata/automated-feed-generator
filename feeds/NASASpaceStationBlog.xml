@@ -6,7 +6,7 @@
     <description>The official blog of NASA's space station news.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Jun 2024 04:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 04:00:20 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>Astronauts Work Final Spacewalk Preps and Genetic Sequencing</title>
