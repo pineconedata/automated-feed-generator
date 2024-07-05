@@ -6,7 +6,7 @@
     <description>The official blog of NASA's space station news.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Jul 2024 04:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 04:00:11 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>Spacewalk Cancelled Due to Spacesuit Cooling Unit Water Leak</title>
