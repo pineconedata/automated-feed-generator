@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Jul 2024 04:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 04:00:07 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Robots Talk Back, AI Security Risks, Political Deepfakes, Pretrained Models on the Cheap</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/mar-20-2024/</link>
-      <description>&lt;p&gt;The Batch AI News and Insights: I think AI agent workflows will drive massive AI progress this year — perhaps even more than the next generation of foundation models. This is an important trend, and I urge everyone who works in AI to pay attention to it.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Robots Talk Back, AI Security Risks, Political Deepfakes, Pretrained Models on the Cheap"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/mar-20-2024/</guid>
-      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>One Agent For Many Worlds, Cross-Species Cell Embeddings, U.S. Deploys AI Targeting, Robo Football Gets Real</title>
       <link>https://www.deeplearning.ai/the-batch/tag/mar-27-2024/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>OpenAI Blocks China, Tests for Human-Level Models, Music Industry Sues AI Startups, Model Merging Evolves</title>
       <link>https://www.deeplearning.ai/the-batch/issue-256/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F07%2Funnamed--66-.jpg&amp;w=3840&amp;q=75" alt="OpenAI Blocks China, Tests for Human-Level Models, Music Industry Sues AI Startups, Model Merging Evolves"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: As we reach the milestone of the 256th issue of The Batch, I’m reflecting on how AI has changed over the years and how society continues to change with it.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="OpenAI Blocks China, Tests for Human-Level Models, Music Industry Sues AI Startups, Model Merging Evolves"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-256/</guid>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI's Cloudy Path to Zero Emissions, Amazon's Agent Builders, Claude's UI Advance, Training On Consumer GPUs</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-257/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F07%2Funnamed--69--1.jpg&amp;w=3840&amp;q=75" alt="AI's Cloudy Path to Zero Emissions, Amazon's Agent Builders, Claude's UI Advance, Training On Consumer GPUs"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-257/</guid>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
