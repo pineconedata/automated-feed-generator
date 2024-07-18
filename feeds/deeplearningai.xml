@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Jul 2024 04:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 04:00:07 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>One Agent For Many Worlds, Cross-Species Cell Embeddings, U.S. Deploys AI Targeting, Robo Football Gets Real</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/mar-27-2024/</link>
-      <description>&lt;p&gt;The Batch AI News and Insights: Last week, I described four design patterns for AI agentic workflows that I believe will drive significant progress this year...&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="One Agent For Many Worlds, Cross-Species Cell Embeddings, U.S. Deploys AI Targeting, Robo Football Gets Real"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/mar-27-2024/</guid>
-      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Microsoft Absorbs Inflection, Nvidia’s New GPUs, Managing AI Bio Risk, More Factual LLMs</title>
       <link>https://www.deeplearning.ai/the-batch/tag/apr-03-2024/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>AI's Cloudy Path to Zero Emissions, Amazon's Agent Builders, Claude's UI Advance, Training On Consumer GPUs</title>
       <link>https://www.deeplearning.ai/the-batch/issue-257/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F07%2Funnamed--69--1.jpg&amp;w=3840&amp;q=75" alt="AI's Cloudy Path to Zero Emissions, Amazon's Agent Builders, Claude's UI Advance, Training On Consumer GPUs"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: I continue to be alarmed at the progress of proposed California regulation SB 1047 and the attack it represents on open source and more broadly on AI innovation.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="AI's Cloudy Path to Zero Emissions, Amazon's Agent Builders, Claude's UI Advance, Training On Consumer GPUs"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-257/</guid>
       <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hallucination Detector, Battle of the Image Generators, How Open Are Open Models?, Copyright Claim Fails Against GitHub</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-258/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F07%2Funnamed--72-.jpg&amp;w=3840&amp;q=75" alt="Hallucination Detector, Battle of the Image Generators, How Open Are Open Models?, Copyright Claim Fails Against GitHub"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-258/</guid>
+      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
