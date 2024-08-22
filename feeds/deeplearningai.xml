@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Aug 2024 04:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 04:00:05 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Apple’s Tiny LLMs, Amazon Rethinks Cashier-Free Stores, Predicting Scientific Discoveries</title>
-      <link>https://www.deeplearning.ai/the-batch/issue-247/</link>
-      <description>&lt;p&gt;The Batch AI News and Insights: Inexpensive token generation and agentic workflows for large language models (LLMs) open up intriguing new possibilities for training LLMs on synthetic data. Pretraining...&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Apple’s Tiny LLMs, Amazon Rethinks Cashier-Free Stores, Predicting Scientific Discoveries"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-247/</guid>
-      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>OpenAI Licenses News Archives, Generative Coding From Plan to Pull Request, Recognizing Landmines, Streamlined Inference</title>
       <link>https://www.deeplearning.ai/the-batch/issue-248/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>LLM Price War, Black Forest’s Open Image Generator, The High Cost of AI Leadership, Machine Translation Goes Agentic</title>
       <link>https://www.deeplearning.ai/the-batch/issue-262/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F08%2Funnamed---2024-08-14T145457.617.png&amp;w=3840&amp;q=75" alt="LLM Price War, Black Forest’s Open Image Generator, The High Cost of AI Leadership, Machine Translation Goes Agentic"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights | When entrepreneurs build a startup, it is often their speed and momentum that gives them a shot at competing with the tech behemoths.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="LLM Price War, Black Forest’s Open Image Generator, The High Cost of AI Leadership, Machine Translation Goes Agentic"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-262/</guid>
       <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Agents Generate Novel Research, Google Imagen 3 Raises the Bar, Alibaba’s Open Models for Specialized Tasks, Scaling Laws for Data Quality</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-263/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F08%2Funnamed--80-.jpg&amp;w=3840&amp;q=75" alt="AI Agents Generate Novel Research, Google Imagen 3 Raises the Bar, Alibaba’s Open Models for Specialized Tasks, Scaling Laws for Data Quality"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-263/</guid>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
