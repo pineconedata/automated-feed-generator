@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Sep 2024 04:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 04:00:05 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>OpenAI’s Rules for Model Behavior, Better Brain-Controlled Robots, AlphaFold 3 Covers All Biochemistry, AI Oasis in the Desert</title>
-      <link>https://www.deeplearning.ai/the-batch/issue-249/</link>
-      <description>&lt;p&gt;The Batch AI News and Insights: In the last couple of days, Google announced a doubling of Gemini Pro 1.5's input context window from 1 million to 2 million tokens, and OpenAI released GPT-4o...&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="OpenAI’s Rules for Model Behavior, Better Brain-Controlled Robots, AlphaFold 3 Covers All Biochemistry, AI Oasis in the Desert"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-249/</guid>
-      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Music Industry Titan Targets AI, End-to-End Multimodality, Millions of Tokens of Context, More Responsive Text-to-Image</title>
       <link>https://www.deeplearning.ai/the-batch/issue-250/</link>
@@ -65,9 +58,9 @@
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI's Cloudy Path to Zero Emissions, Amazon's Agent Builders, Claude's UI Advance, Training On Consumer GPUs</title>
+      <title>AI’s Cloudy Path to Zero Emissions, Amazon’s Agent Builders, Claude’s UI Advance, Training On Consumer GPUs</title>
       <link>https://www.deeplearning.ai/the-batch/issue-257/</link>
-      <description>&lt;p&gt;The Batch AI News and Insights: I continue to be alarmed at the progress of proposed California regulation SB 1047 and the attack it represents on open source and more broadly on AI innovation.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="AI's Cloudy Path to Zero Emissions, Amazon's Agent Builders, Claude's UI Advance, Training On Consumer GPUs"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: I continue to be alarmed at the progress of proposed California regulation SB 1047 and the attack it represents on open source and more broadly on AI innovation.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="AI’s Cloudy Path to Zero Emissions, Amazon’s Agent Builders, Claude’s UI Advance, Training On Consumer GPUs"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-257/</guid>
       <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
     </item>
@@ -114,11 +107,18 @@
       <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI Restores ALS Patient's Voice, AI Lobby Grows, Agentic Coding Advances, Massively Multimodal Model</title>
+      <title>AI Restores ALS Patient’s Voice, AI Lobby Grows, Agentic Coding Advances, Massively Multimodal Model</title>
       <link>https://www.deeplearning.ai/the-batch/issue-264/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F08%2FModelPricing-for-GPT-4-and-Llama3pt1_v7a_1200px.jpg&amp;w=3840&amp;q=75" alt="AI Restores ALS Patient's Voice, AI Lobby Grows, Agentic Coding Advances, Massively Multimodal Model"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: After a recent price reduction by OpenAI, GPT-4o tokens now cost $4 per million tokens (using a blended rate that assumes 80% input and 20% output tokens).&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="AI Restores ALS Patient’s Voice, AI Lobby Grows, Agentic Coding Advances, Massively Multimodal Model"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-264/</guid>
       <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hallucination Index, AI-Powered Policing Goes National, Explainable LLMs, Faster Processing for Longer Inputs</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-265/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F09%2Funnamed--5-.png&amp;w=3840&amp;q=75" alt="Hallucination Index, AI-Powered Policing Goes National, Explainable LLMs, Faster Processing for Longer Inputs"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-265/</guid>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
