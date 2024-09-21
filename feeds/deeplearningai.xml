@@ -6,7 +6,7 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Sep 2024 04:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 04:00:07 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>The AI PC Arrives, OpenAI Used For Disinformation, U.S. and China Seek AI Agreement, Training Models to Reason</title>
@@ -116,7 +116,7 @@
     <item>
       <title>Models Built for Reasoning, High Gear for Llama 3.1, Brains for Warehouse Robots, Stopping LLMs From Plagiarizing</title>
       <link>https://www.deeplearning.ai/the-batch/tag/sep-18-2024/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F09%2Funnamed--11-.png&amp;w=3840&amp;q=75" alt="Models Built for Reasoning, High Gear for Llama 3.1, Brains for Warehouse Robots, Stopping LLMs From Plagiarizing"&gt;</description>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F09%2FUntitled-design.png&amp;w=3840&amp;q=75" alt="Models Built for Reasoning, High Gear for Llama 3.1, Brains for Warehouse Robots, Stopping LLMs From Plagiarizing"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/sep-18-2024/</guid>
       <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
     </item>
