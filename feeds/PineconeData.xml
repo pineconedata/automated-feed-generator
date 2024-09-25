@@ -6,22 +6,8 @@
     <description>The official blog of Pinecone Data.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Sep 2024 04:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 04:00:15 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Automate Your News Feed</title>
-      <link>https://www.pineconedata.com/2023-11-07-automated-feed-generator/</link>
-      <description>
-        
-        RSS feeds are a fantastic tool for reading the latest content from your favorite websites without cluttering up your email inbox or manually visiting each website. However, not every website owner publishes an official RSS feed anymore, making it difficult to access up-to-date content in one place. That’s why today...
-        
-        
-          &lt;a href="https://www.pineconedata.com/2023-11-07-automated-feed-generator/" class="post-read-more"&gt;[Read&amp;nbsp;More]&lt;/a&gt;
-        
-      &lt;img src="https://www.pineconedata.com/assets/img/rss-icon-96.png" alt="Automate Your News Feed"&gt;</description>
-      <guid isPermaLink="false">https://www.pineconedata.com/2023-11-07-automated-feed-generator/</guid>
-      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Jump into Data Science with JupyterLab</title>
       <link>https://www.pineconedata.com/2023-11-14-install-jupyterlab/</link>
@@ -77,6 +63,20 @@
       &lt;img src="https://www.pineconedata.com/assets/img/posts/2024-05-30-basketball-feature-engineering/engineer.jpg" alt="Outlier or Caitlin Clark? A Data Science Project"&gt;</description>
       <guid isPermaLink="false">https://www.pineconedata.com/2024-05-30-basketball-feature_engineering/</guid>
       <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Outlier or Caitlin Clark? A Data Science Project</title>
+      <link>https://www.pineconedata.com/2024-07-29-basketball-visualizations/</link>
+      <description>
+        
+        Today we’ll walk through how to determine the relationship between metrics and generate visualizations. This is the fourth part of a series that walks through the entire process of a data science project - from initial steps like data acquisition, preprocessing, and cleaning to more advanced steps like feature engineering,...
+        
+        
+          &lt;a href="https://www.pineconedata.com/2024-07-29-basketball-visualizations/" class="post-read-more"&gt;[Read&amp;nbsp;More]&lt;/a&gt;
+        
+      &lt;img src="https://www.pineconedata.com/assets/img/posts/2024-07-29-basketball-visualizations/heatmap.JPG" alt="Outlier or Caitlin Clark? A Data Science Project"&gt;</description>
+      <guid isPermaLink="false">https://www.pineconedata.com/2024-07-29-basketball-visualizations/</guid>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
