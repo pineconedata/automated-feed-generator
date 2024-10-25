@@ -6,7 +6,7 @@
     <description>The official blog of Pinecone Data.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Oct 2024 04:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 04:00:19 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>Jump into Data Science with JupyterLab</title>
@@ -23,7 +23,7 @@
       <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Outlier or Caitlin Clark? A Data Science Project</title>
+      <title>Project Setup and Data Acquisition</title>
       <link>https://www.pineconedata.com/2024-04-11-basketball-data-acquisition/</link>
       <description>
         
@@ -32,12 +32,12 @@
         
           &lt;a href="https://www.pineconedata.com/2024-04-11-basketball-data-acquisition/" class="post-read-more"&gt;[Read&amp;nbsp;More]&lt;/a&gt;
         
-      &lt;img src="https://www.pineconedata.com/assets/img/posts/2024-04-11-basketball-data-acquisition/basketball.jpg" alt="Outlier or Caitlin Clark? A Data Science Project"&gt;</description>
+      &lt;img src="https://www.pineconedata.com/assets/img/posts/2024-04-11-basketball-data-acquisition/basketball.jpg" alt="Project Setup and Data Acquisition"&gt;</description>
       <guid isPermaLink="false">https://www.pineconedata.com/2024-04-11-basketball-data-acquisition/</guid>
       <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Outlier or Caitlin Clark? A Data Science Project</title>
+      <title>Data Cleaning and Preprocessing</title>
       <link>https://www.pineconedata.com/2024-05-02-basketball-data-cleaning-preprocessing/</link>
       <description>
         
@@ -46,35 +46,35 @@
         
           &lt;a href="https://www.pineconedata.com/2024-05-02-basketball-data-cleaning-preprocessing/" class="post-read-more"&gt;[Read&amp;nbsp;More]&lt;/a&gt;
         
-      &lt;img src="https://www.pineconedata.com/assets/img/posts/2024-05-02-basketball-data-cleaning/clean.jpg" alt="Outlier or Caitlin Clark? A Data Science Project"&gt;</description>
+      &lt;img src="https://www.pineconedata.com/assets/img/posts/2024-05-02-basketball-data-cleaning/clean.jpg" alt="Data Cleaning and Preprocessing"&gt;</description>
       <guid isPermaLink="false">https://www.pineconedata.com/2024-05-02-basketball-data-cleaning-preprocessing/</guid>
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Outlier or Caitlin Clark? A Data Science Project</title>
+      <title>Feature Engineering</title>
       <link>https://www.pineconedata.com/2024-05-30-basketball-feature_engineering/</link>
       <description>
         
-        Today we’ll walk through how to derive new features from existing columns by calculating additional metrics and extracting textual data. This is the third part of a series that walks through the entire process of a data science project - from initial steps like data acquisition, preprocessing, and cleaning to...
+        Today we’ll explore how to derive new features from existing columns by calculating additional metrics and extracting textual data. This is the third part of a series that walks through the entire process of a data science project - from initial steps like data acquisition, preprocessing, and cleaning to more...
         
         
           &lt;a href="https://www.pineconedata.com/2024-05-30-basketball-feature_engineering/" class="post-read-more"&gt;[Read&amp;nbsp;More]&lt;/a&gt;
         
-      &lt;img src="https://www.pineconedata.com/assets/img/posts/2024-05-30-basketball-feature-engineering/engineer.jpg" alt="Outlier or Caitlin Clark? A Data Science Project"&gt;</description>
+      &lt;img src="https://www.pineconedata.com/assets/img/posts/2024-05-30-basketball-feature-engineering/engineer.jpg" alt="Feature Engineering"&gt;</description>
       <guid isPermaLink="false">https://www.pineconedata.com/2024-05-30-basketball-feature_engineering/</guid>
       <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Outlier or Caitlin Clark? A Data Science Project</title>
+      <title>Data Visualizations and Feature Selection</title>
       <link>https://www.pineconedata.com/2024-07-29-basketball-visualizations/</link>
       <description>
         
-        Today we’ll walk through how to determine the relationship between metrics and generate visualizations. This is the fourth part of a series that walks through the entire process of a data science project - from initial steps like data acquisition, preprocessing, and cleaning to more advanced steps like feature engineering,...
+        Today we’ll demonstrate how to determine the relationship between metrics and generate visualizations. This is the fourth part of a series that walks through the entire process of a data science project - from initial steps like data acquisition, preprocessing, and cleaning to more advanced steps like feature engineering, machine...
         
         
           &lt;a href="https://www.pineconedata.com/2024-07-29-basketball-visualizations/" class="post-read-more"&gt;[Read&amp;nbsp;More]&lt;/a&gt;
         
-      &lt;img src="https://www.pineconedata.com/assets/img/posts/2024-07-29-basketball-visualizations/heatmap.JPG" alt="Outlier or Caitlin Clark? A Data Science Project"&gt;</description>
+      &lt;img src="https://www.pineconedata.com/assets/img/posts/2024-07-29-basketball-visualizations/histogram.png" alt="Data Visualizations and Feature Selection"&gt;</description>
       <guid isPermaLink="false">https://www.pineconedata.com/2024-07-29-basketball-visualizations/</guid>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
     </item>
