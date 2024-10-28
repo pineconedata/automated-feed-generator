@@ -6,20 +6,8 @@
     <description>The official blog of NASA's space station news.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Oct 2024 04:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 04:00:17 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>NASA, SpaceX Adjust Crew-8 Undocking Date</title>
-      <link>https://blogs.nasa.gov/spacestation/2024/10/21/nasas-spacex-adjust-crew-8-undocking-date/</link>
-      <description>
-		&lt;div class="mceTemp"&gt;&lt;/div&gt;
-&lt;figure id="attachment_25436" aria-describedby="caption-attachment-25436" style="width: 840px" class="wp-caption alignnone"&gt;&lt;a href="https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2024/10/NASAs-SpaceX-Crew-8-crew-members.jpg"&gt;&lt;img loading="lazy" decoding="async" class="size-full wp-image-25436" src="https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2024/10/NASAs-SpaceX-Crew-8-crew-members.jpg" alt="Image shows NASA's SpaceX Crew-8 at the International Space Station" width="840" height="560" srcset="https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2024/10/NASAs-SpaceX-Crew-8-crew-members.jpg 5568w, https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2024/10/NASAs-SpaceX-Crew-8-crew-members.jpg?resize=300,200 300w, https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2024/10/NASAs-SpaceX-Crew-8-crew-members.jpg?resize=768,512 768w, https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2024/10/NASAs-SpaceX-Crew-8-crew-members.jpg?resize=1024,683 1024w, https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2024/10/NASAs-SpaceX-Crew-8-crew-members.jpg?resize=1536,1024 1536w, https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2024/10/NASAs-SpaceX-Crew-8-crew-members.jpg?resize=2048,1365 2048w, https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2024/10/NASAs-SpaceX-Crew-8-crew-members.jpg?resize=1200,800 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px"&gt;&lt;/a&gt;&lt;figcaption id="caption-attachment-25436" class="wp-caption-text"&gt;NASA’s SpaceX Crew-8 crew members pose for a photo inside SpaceX Dragon spacecraft. Photo credit: NASA&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;p&gt;Weather conditions near the multiple splashdown sites off Florida’s coast remain unfavorable for the return of NASA’s SpaceX Crew-8 mission from the International Space Station. Forecasts remain marginal for an undocking on Tuesday, Oct. 22, and Wednesday, Oct. 23. If weather conditions improve, NASA and SpaceX will target no earlier than 9:05 p.m. EDT, Oct. 22, for undocking from the space station. Based on the current forecast, conditions are expected to improve as the week progresses.&lt;/p&gt;
-&lt;p&gt;Mission managers continue to monitor conditions and will meet at 9 a.m., Oct. 22, for the next weather briefing.&amp;nbsp;We will provide additional updates and information on&amp;nbsp;&lt;a id="menur73e" class="fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" title="https://plus.nasa.gov/scheduled-events/" href="https://plus.nasa.gov/scheduled-events/" target="_blank" rel="noreferrer noopener" aria-label="Link NASA+"&gt;NASA+&lt;/a&gt;&amp;nbsp;coverage when available&lt;i&gt;.&lt;/i&gt;&lt;/p&gt;
-	&lt;img src="https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2024/10/NASAs-SpaceX-Crew-8-crew-members.jpg" alt="NASA, SpaceX Adjust Crew-8 Undocking Date"&gt;</description>
-      <guid isPermaLink="false">https://blogs.nasa.gov/spacestation/2024/10/21/nasas-spacex-adjust-crew-8-undocking-date/</guid>
-      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Crew-8 Waits for Weather to Improve as Station Crew Adjusts</title>
       <link>https://blogs.nasa.gov/spacestation/2024/10/21/crew-8-waits-for-weather-to-improve-as-station-crew-adjusts/</link>
@@ -169,6 +157,20 @@
 	</description>
       <guid isPermaLink="false">https://blogs.nasa.gov/spacestation/2024/10/25/nasa-provides-update-on-agencys-spacex-crew-8-health/</guid>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NASA’s SpaceX Crew-8 Astronaut Returns to Houston</title>
+      <link>https://blogs.nasa.gov/spacestation/2024/10/26/nasas-spacex-crew-8-astronaut-returns-to-houston/</link>
+      <description>
+		&lt;p&gt;After an &lt;a href="https://blogs.nasa.gov/commercialcrew/2024/10/25/nasa-provides-update-on-agencys-spacex-crew-8-health/"&gt;overnight stay&lt;/a&gt; at Ascension Sacred Heart Pensacola in Florida, the NASA astronaut was released and returned to NASA’s Johnson Space Center in Houston Saturday. The crew member is in good health and will resume normal post-flight reconditioning with other crew members.&lt;/p&gt;
+&lt;p&gt;As part of NASA’s &lt;a href="https://www.nasa.gov/mission/nasas-spacex-crew-8/"&gt;SpaceX Crew-8&lt;/a&gt; mission, the astronaut was one of four crewmates who safely splashed down aboard their SpaceX Dragon spacecraft near Pensacola on &lt;a href="https://blogs.nasa.gov/commercialcrew/2024/10/25/splashdown-nasas-spacex-crew-8-returns-safely-to-earth/"&gt;Oct. 25&lt;/a&gt;. The crew members completed a 235-day mission, 232 days of which were spent aboard the International Space Station conducting scientific research.&lt;/p&gt;
+&lt;p&gt;To protect the crew member’s medical privacy, specific details on the individual’s condition and identity will not be shared.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Learn more about station activities by following the&amp;nbsp;&lt;a href="https://blogs.nasa.gov/spacestation/"&gt;space station blog&lt;/a&gt;,&amp;nbsp;&lt;a href="https://twitter.com/space_station"&gt;@space_station&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href="https://twitter.com/ISS_Research"&gt;@ISS_Research&lt;/a&gt;&amp;nbsp;on X, as well as the&amp;nbsp;&lt;a href="https://www.facebook.com/ISS"&gt;ISS Facebook&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href="https://www.instagram.com/iss"&gt;ISS Instagram&lt;/a&gt;&amp;nbsp;accounts.&lt;/p&gt;
+&lt;p&gt;Get the latest from NASA delivered every week. Subscribe here:&amp;nbsp;&lt;a href="http://www.nasa.gov/subscribe"&gt;www.nasa.gov/subscribe&lt;/a&gt;&lt;/p&gt;
+	</description>
+      <guid isPermaLink="false">https://blogs.nasa.gov/spacestation/2024/10/26/nasas-spacex-crew-8-astronaut-returns-to-houston/</guid>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
