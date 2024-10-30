@@ -6,22 +6,8 @@
     <description>The official blog of Pinecone Data.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Oct 2024 04:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 04:00:23 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Jump into Data Science with JupyterLab</title>
-      <link>https://www.pineconedata.com/2023-11-14-install-jupyterlab/</link>
-      <description>
-        
-        Today we’ll be covering how to self-host JupyterLab on a Linux machine for a single user. If you’re not familiar with Project Jupyter, I highly recommend that you check it out, especially if you work in data science or with Python. Project Jupyter is migrating the classic Jupyter Notebooks into...
-        
-        
-          &lt;a href="https://www.pineconedata.com/2023-11-14-install-jupyterlab/" class="post-read-more"&gt;[Read&amp;nbsp;More]&lt;/a&gt;
-        
-      &lt;img src="https://www.pineconedata.com/assets/img/jupyterlab_icon.jpeg" alt="Jump into Data Science with JupyterLab"&gt;</description>
-      <guid isPermaLink="false">https://www.pineconedata.com/2023-11-14-install-jupyterlab/</guid>
-      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Project Setup and Data Acquisition</title>
       <link>https://www.pineconedata.com/2024-04-11-basketball-data-acquisition/</link>
@@ -77,6 +63,20 @@
       &lt;img src="https://www.pineconedata.com/assets/img/posts/2024-07-29-basketball-visualizations/histogram.png" alt="Data Visualizations and Feature Selection"&gt;</description>
       <guid isPermaLink="false">https://www.pineconedata.com/2024-07-29-basketball-visualizations/</guid>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Training a Linear Regression Model</title>
+      <link>https://www.pineconedata.com/2024-09-13-basketbal-train-ols/</link>
+      <description>
+        
+        Today we’ll cover the basics of machine learning and examine how to train a linear regression machine learning model. This is the fifth part of a series that walks through the entire process of a data science project - from initial steps like data acquisition, preprocessing, and cleaning to more...
+        
+        
+          &lt;a href="https://www.pineconedata.com/2024-09-13-basketbal-train-ols/" class="post-read-more"&gt;[Read&amp;nbsp;More]&lt;/a&gt;
+        
+      &lt;img src="https://www.pineconedata.com/assets/img/posts/2024-09-13-basketball-train-ols/thumbnail.jpg" alt="Training a Linear Regression Model"&gt;</description>
+      <guid isPermaLink="false">https://www.pineconedata.com/2024-09-13-basketbal-train-ols/</guid>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
