@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Oct 2024 04:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 04:00:05 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>AI’s Cloudy Path to Zero Emissions, Amazon’s Agent Builders, Claude’s UI Advance, Training On Consumer GPUs</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/jul-10-2024/</link>
-      <description>&lt;p&gt;The Batch AI News and Insights: I continue to be alarmed at the progress of proposed California regulation SB 1047 and the attack it represents on open source and more broadly on AI innovation.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="AI’s Cloudy Path to Zero Emissions, Amazon’s Agent Builders, Claude’s UI Advance, Training On Consumer GPUs"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jul-10-2024/</guid>
-      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Hallucination Detector, Battle of the Image Generators, How Open Are Open Models?, Copyright Claim Fails Against GitHub</title>
       <link>https://www.deeplearning.ai/the-batch/tag/jul-17-2024/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>AI Giants Go Nuclear, A Tech Bromance Turns Turbulent, Mistral Sharpens the Edge, Cheaper Video Generation</title>
       <link>https://www.deeplearning.ai/the-batch/tag/oct-23-2024/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F10%2Funnamed--23--1.jpg&amp;w=3840&amp;q=75" alt="AI Giants Go Nuclear, A Tech Bromance Turns Turbulent, Mistral Sharpens the Edge, Cheaper Video Generation"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: Startups live or die by their ability to execute at speed.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="AI Giants Go Nuclear, A Tech Bromance Turns Turbulent, Mistral Sharpens the Edge, Cheaper Video Generation"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/oct-23-2024/</guid>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trick or treat! AI Devours Energy, Innovation Dies, Models Collapse, Benchmarks Are Meaningless, No Work for Coders</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/oct-30-2024/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2024%2F10%2Funnamed--27--1.jpg&amp;w=3840&amp;q=75" alt="Trick or treat! AI Devours Energy, Innovation Dies, Models Collapse, Benchmarks Are Meaningless, No Work for Coders"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/oct-30-2024/</guid>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
