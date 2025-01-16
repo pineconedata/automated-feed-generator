@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jan 2025 05:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 05:00:06 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Hollywood Embraces Video Gen, New Restrictions on Deepfakes, More Open Source Models, Robot Server</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/sep-25-2024/</link>
-      <description>&lt;p&gt;The Batch AI News and Insights: Last week I spoke at Coursera Connect, the company’s annual conference in Las Vegas, where a major topic was AI and education.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Hollywood Embraces Video Gen, New Restrictions on Deepfakes, More Open Source Models, Robot Server"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/sep-25-2024/</guid>
-      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Llama Goes Multimodal, Pros Embrace Generative Video, Military AI Guidelines, LLMs That Read Spreadsheets</title>
       <link>https://www.deeplearning.ai/the-batch/tag/oct-02-2024/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>When Good Models Do Bad Things, What Users Really Want, More Training Data!, Better Model Merging</title>
       <link>https://www.deeplearning.ai/the-batch/tag/jan-08-2025/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2025%2F01%2FCaptura-de-pantalla-2025-01-08-a-la-s--8.46.31-p.-m.-1.png&amp;w=3840&amp;q=75" alt="When Good Models Do Bad Things, What Users Really Want, More Training Data!, Better Model Merging"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: Using AI-assisted coding to build software prototypes is an important way to quickly explore many ideas and invent new things.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="When Good Models Do Bad Things, What Users Really Want, More Training Data!, Better Model Merging"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jan-08-2025/</guid>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tumbling Training Costs, Desktop AI Supercomputer, Tighter AI Export Restrictions, Improved Contrastive Loss</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/jan-15-2024/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2025%2F01%2FAIProductManager-2_1200px.jpg&amp;w=3840&amp;q=75" alt="Tumbling Training Costs, Desktop AI Supercomputer, Tighter AI Export Restrictions, Improved Contrastive Loss"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jan-15-2024/</guid>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
