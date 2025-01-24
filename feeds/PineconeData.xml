@@ -6,36 +6,8 @@
     <description>The official blog of Pinecone Data.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Jan 2025 05:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 05:00:16 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Project Setup and Data Acquisition</title>
-      <link>https://www.pineconedata.com/2024-04-11-basketball-data-acquisition/</link>
-      <description>
-        
-        Today we’ll go over how to start a new data science project by acquiring the data (using APIs and a CSV export). This is the first part of a series that will walk through the entire process of a data science project - from initial steps like data acquisition, preprocessing,...
-        
-        
-          &lt;a href="https://www.pineconedata.com/2024-04-11-basketball-data-acquisition/" class="post-read-more"&gt;[Read&amp;nbsp;More]&lt;/a&gt;
-        
-      &lt;img src="https://www.pineconedata.com/assets/img/posts/2024-04-11-basketball-data-acquisition/basketball.jpg" alt="Project Setup and Data Acquisition"&gt;</description>
-      <guid isPermaLink="false">https://www.pineconedata.com/2024-04-11-basketball-data-acquisition/</guid>
-      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Data Cleaning and Preprocessing</title>
-      <link>https://www.pineconedata.com/2024-05-02-basketball-data-cleaning-preprocessing/</link>
-      <description>
-        
-        Today we’ll walk through how to clean and preprocess a dataset to ensure it is ready for analysis. This is the second part of a series that walks through the entire process of a data science project - from initial steps like data acquisition, preprocessing, and cleaning to more advanced...
-        
-        
-          &lt;a href="https://www.pineconedata.com/2024-05-02-basketball-data-cleaning-preprocessing/" class="post-read-more"&gt;[Read&amp;nbsp;More]&lt;/a&gt;
-        
-      &lt;img src="https://www.pineconedata.com/assets/img/posts/2024-05-02-basketball-data-cleaning/clean.jpg" alt="Data Cleaning and Preprocessing"&gt;</description>
-      <guid isPermaLink="false">https://www.pineconedata.com/2024-05-02-basketball-data-cleaning-preprocessing/</guid>
-      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Feature Engineering</title>
       <link>https://www.pineconedata.com/2024-05-30-basketball-feature_engineering/</link>
@@ -51,25 +23,55 @@
       <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Data Visualizations and Feature Selection</title>
+      <title>Data Exploration</title>
+      <link>https://www.pineconedata.com/2024-06-28-basketball-data-exploration/</link>
+      <description>
+        
+        Today we’ll demonstrate how to determine the relationship between metrics and select features. This is the fourth part of a series that walks through the entire process of a data science project - from initial steps like data acquisition, preprocessing, and cleaning to more advanced steps like feature engineering, creating...
+        
+        
+          &lt;a href="https://www.pineconedata.com/2024-06-28-basketball-data-exploration/" class="post-read-more"&gt;[Read&amp;nbsp;More]&lt;/a&gt;
+        
+      &lt;img src="https://www.pineconedata.com/assets/img/posts/2024-06-28-basketball-data-exploration/compass.jpg" alt="Data Exploration"&gt;</description>
+      <guid isPermaLink="false">https://www.pineconedata.com/2024-06-28-basketball-data-exploration/</guid>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data Visualizations</title>
       <link>https://www.pineconedata.com/2024-07-29-basketball-visualizations/</link>
       <description>
         
-        Today we’ll demonstrate how to determine the relationship between metrics and generate visualizations. This is the fourth part of a series that walks through the entire process of a data science project - from initial steps like data acquisition, preprocessing, and cleaning to more advanced steps like feature engineering, machine...
+        Today we’ll demonstrate how to generate meaningful visualizations. This is the fifth part of a series that walks through the entire process of a data science project - from initial steps like data acquisition, preprocessing, and cleaning to more advanced steps like feature engineering, creating visualizations, and machine learning.
+
+
         
         
           &lt;a href="https://www.pineconedata.com/2024-07-29-basketball-visualizations/" class="post-read-more"&gt;[Read&amp;nbsp;More]&lt;/a&gt;
         
-      &lt;img src="https://www.pineconedata.com/assets/img/posts/2024-07-29-basketball-visualizations/histogram.png" alt="Data Visualizations and Feature Selection"&gt;</description>
+      &lt;img src="https://www.pineconedata.com/assets/img/posts/2024-07-29-basketball-visualizations/histogram.png" alt="Data Visualizations"&gt;</description>
       <guid isPermaLink="false">https://www.pineconedata.com/2024-07-29-basketball-visualizations/</guid>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Selecting a Machine Learning Model</title>
+      <link>https://www.pineconedata.com/2024-08-12-basketball-select-ml-ols/</link>
+      <description>
+        
+        Today we’ll cover the basics of machine learning and examine how to select an appropriate machine learning model. This is the sixth part of a series that walks through the entire process of a data science project - from initial steps like data acquisition, preprocessing, and cleaning to more advanced...
+        
+        
+          &lt;a href="https://www.pineconedata.com/2024-08-12-basketball-select-ml-ols/" class="post-read-more"&gt;[Read&amp;nbsp;More]&lt;/a&gt;
+        
+      &lt;img src="https://www.pineconedata.com/assets/img/posts/2024-08-12-basketball-select-ml-ols/scikit-learn_ml_map.svg" alt="Selecting a Machine Learning Model"&gt;</description>
+      <guid isPermaLink="false">https://www.pineconedata.com/2024-08-12-basketball-select-ml-ols/</guid>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Training a Linear Regression Model</title>
       <link>https://www.pineconedata.com/2024-09-13-basketbal-train-ols/</link>
       <description>
         
-        Today we’ll cover the basics of machine learning and examine how to train a linear regression machine learning model. This is the fifth part of a series that walks through the entire process of a data science project - from initial steps like data acquisition, preprocessing, and cleaning to more...
+        Today we’ll expand on the basics of machine learning and examine how to train a linear regression machine learning model. This is the seventh part of a series that walks through the entire process of a data science project - from initial steps like data acquisition, preprocessing, and cleaning to...
         
         
           &lt;a href="https://www.pineconedata.com/2024-09-13-basketbal-train-ols/" class="post-read-more"&gt;[Read&amp;nbsp;More]&lt;/a&gt;
