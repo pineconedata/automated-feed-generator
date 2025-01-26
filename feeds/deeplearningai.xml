@@ -6,7 +6,7 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Jan 2025 05:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 05:00:05 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>How Meta’s Movie Gen Does It, AI’s Criminal Underground, Court Says LAION is Legal, OpenAI’s New Voice API</title>
