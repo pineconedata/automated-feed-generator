@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Jan 2025 05:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 05:00:05 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>How Meta’s Movie Gen Does It, AI’s Criminal Underground, Court Says LAION is Legal, OpenAI’s New Voice API</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/oct-09-2024/</link>
-      <description>&lt;p&gt;The Batch AI News and Insights: Congratulations to Geoff Hinton and John Hopfield for winning the 2024 Physics Nobel Prize!&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="How Meta’s Movie Gen Does It, AI’s Criminal Underground, Court Says LAION is Legal, OpenAI’s New Voice API"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/oct-09-2024/</guid>
-      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Bogus Apps, AI Boomtown, Better Embeddings, 2024 Highlights</title>
       <link>https://www.deeplearning.ai/the-batch/tag/oct-16-2024/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>DeepSeek’s Open Reasoning Model, Affordable Humanoid Robots, Texas’ Restrictive AI Law, GenAI for Electronics</title>
       <link>https://www.deeplearning.ai/the-batch/tag/jan-22-2025/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2025%2F01%2Funnamed--46--1-1.png&amp;w=3840&amp;q=75" alt="DeepSeek’s Open Reasoning Model, Affordable Humanoid Robots, Texas’ Restrictive AI Law, GenAI for Electronics"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: Greetings from Davos, Switzerland! Many business and government leaders are gathered here again for the annual World Economic Forum to discuss tech, climate, geopolitics, and economic growth.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="DeepSeek’s Open Reasoning Model, Affordable Humanoid Robots, Texas’ Restrictive AI Law, GenAI for Electronics"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jan-22-2025/</guid>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reinforcement Learning Heats Up, White House Orders Muscular AI Policy, Computer Use Gains Momentum, Fine Control of Fine-Tuning</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/jan-29-2025/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2025%2F01%2Funnamed--49-.jpg&amp;w=3840&amp;q=75" alt="Reinforcement Learning Heats Up, White House Orders Muscular AI Policy, Computer Use Gains Momentum, Fine Control of Fine-Tuning"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jan-29-2025/</guid>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
