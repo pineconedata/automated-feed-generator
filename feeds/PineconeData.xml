@@ -6,36 +6,8 @@
     <description>The official blog of Pinecone Data.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Feb 2025 05:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 05:28:46 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Feature Engineering</title>
-      <link>https://www.pineconedata.com/2024-05-30-basketball-feature_engineering/</link>
-      <description>
-        
-        Today we’ll explore how to derive new features from existing columns by calculating additional metrics and extracting textual data. This is the third part of a series that walks through the entire process of a data science project - from initial steps like data acquisition, preprocessing, and cleaning to more...
-        
-        
-          &lt;a href="https://www.pineconedata.com/2024-05-30-basketball-feature_engineering/" class="post-read-more"&gt;[Read&amp;nbsp;More]&lt;/a&gt;
-        
-      &lt;img src="https://www.pineconedata.com/assets/img/posts/2024-05-30-basketball-feature-engineering/engineer.jpg" alt="Feature Engineering"&gt;</description>
-      <guid isPermaLink="false">https://www.pineconedata.com/2024-05-30-basketball-feature_engineering/</guid>
-      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Data Exploration</title>
-      <link>https://www.pineconedata.com/2024-06-28-basketball-data-exploration/</link>
-      <description>
-        
-        Today we’ll demonstrate how to determine the relationship between metrics and select features. This is the fourth part of a series that walks through the entire process of a data science project - from initial steps like data acquisition, preprocessing, and cleaning to more advanced steps like feature engineering, creating...
-        
-        
-          &lt;a href="https://www.pineconedata.com/2024-06-28-basketball-data-exploration/" class="post-read-more"&gt;[Read&amp;nbsp;More]&lt;/a&gt;
-        
-      &lt;img src="https://www.pineconedata.com/assets/img/posts/2024-06-28-basketball-data-exploration/compass.jpg" alt="Data Exploration"&gt;</description>
-      <guid isPermaLink="false">https://www.pineconedata.com/2024-06-28-basketball-data-exploration/</guid>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Data Visualizations</title>
       <link>https://www.pineconedata.com/2024-07-29-basketball-visualizations/</link>
@@ -79,6 +51,38 @@
       &lt;img src="https://www.pineconedata.com/assets/img/posts/2024-09-13-basketball-train-ols/thumbnail.jpg" alt="Training a Linear Regression Model"&gt;</description>
       <guid isPermaLink="false">https://www.pineconedata.com/2024-09-13-basketbal-train-ols/</guid>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evaluating a Linear Regression Model</title>
+      <link>https://www.pineconedata.com/2024-11-27-basketball-evaluate-ols-model/</link>
+      <description>
+        
+        Today we’ll wrap up the basics of machine learning by examining how to evaluate the performance of our linear regression model. This is the eighth part of a series that walks through the entire process of a data science project - from initial steps like data acquisition, preprocessing, and cleaning...
+        
+        
+          &lt;a href="https://www.pineconedata.com/2024-11-27-basketball-evaluate-ols-model/" class="post-read-more"&gt;[Read&amp;nbsp;More]&lt;/a&gt;
+        
+      &lt;img src="https://www.pineconedata.com/assets/img/posts/2024-11-27-basketball-evaluate-ols-model/thumbnail.png" alt="Evaluating a Linear Regression Model"&gt;</description>
+      <guid isPermaLink="false">https://www.pineconedata.com/2024-11-27-basketball-evaluate-ols-model/</guid>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Year in Review [2024]</title>
+      <link>https://www.pineconedata.com/2025-01-24-year-in-review-2024/</link>
+      <description>
+        
+        Today we’ll break down the highlights of 2024 - from starting my own business to attending local conferences.
+We’ll cover new writing projects, interesting conferences and events (both local and online), supportive coding communities, continuous learning opportunities, as well as attainable goals for 2025.
+
+
+
+        
+        
+          &lt;a href="https://www.pineconedata.com/2025-01-24-year-in-review-2024/" class="post-read-more"&gt;[Read&amp;nbsp;More]&lt;/a&gt;
+        
+      &lt;img src="https://www.pineconedata.com/assets/img/posts/2025-01-24-year-in-review-2024/thumbnail.png" alt="Year in Review [2024]"&gt;</description>
+      <guid isPermaLink="false">https://www.pineconedata.com/2025-01-24-year-in-review-2024/</guid>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
