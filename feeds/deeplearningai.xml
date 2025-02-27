@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Feb 2025 05:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 05:00:05 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>AI Controls Desktops, Agents Train Algorithms, Does Anyone Comply With the EU’s AI Act?, Robots on the Loading Dock</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/nov-06-2024/</link>
-      <description>&lt;p&gt;The Batch AI News and Insights: Trump and the Republican party chalked up huge wins this week. Did manipulation of social media by generative AI play any role in this election?&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="AI Controls Desktops, Agents Train Algorithms, Does Anyone Comply With the EU’s AI Act?, Robots on the Loading Dock"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/nov-06-2024/</guid>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Llama On the Battlefield, Mixture of Experts Pulls Ahead, Open Agentic Platform, Voter Support Chatbot</title>
       <link>https://www.deeplearning.ai/the-batch/tag/nov-13-2024/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>Grok 3 Scales Up, Mobile Apps Generated To Order, Musk Moves On OpenAI, Officials Reverse Course on AI Regulation</title>
       <link>https://www.deeplearning.ai/the-batch/tag/feb-19-2025/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2025%2F02%2Funnamed--52--1.png&amp;w=3840&amp;q=75" alt="Grok 3 Scales Up, Mobile Apps Generated To Order, Musk Moves On OpenAI, Officials Reverse Course on AI Regulation"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: Last month, a drone from Skyfire AI was credited with saving a police officer’s life after a dramatic 2 a.m. traffic stop.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Grok 3 Scales Up, Mobile Apps Generated To Order, Musk Moves On OpenAI, Officials Reverse Course on AI Regulation"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/feb-19-2025/</guid>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta Reads Minds, Big AI Spending Climbs, Deepfakes Appropriate Celeb Likenesses, Reasoning in Vectors</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/feb-26-2025/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2025%2F02%2Funnamed--52--1.jpg&amp;w=3840&amp;q=75" alt="Meta Reads Minds, Big AI Spending Climbs, Deepfakes Appropriate Celeb Likenesses, Reasoning in Vectors"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/feb-26-2025/</guid>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
