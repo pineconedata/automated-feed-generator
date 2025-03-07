@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Mar 2025 05:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 05:00:06 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Llama On the Battlefield, Mixture of Experts Pulls Ahead, Open Agentic Platform, Voter Support Chatbot</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/nov-13-2024/</link>
-      <description>&lt;p&gt;The Batch AI News and Insights: Large language models (LLMs) are typically optimized to answer peoples’ questions.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Llama On the Battlefield, Mixture of Experts Pulls Ahead, Open Agentic Platform, Voter Support Chatbot"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/nov-13-2024/</guid>
-      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Next-Gen Models Show Limited Gains, Real-Time Video Generation, China AI Chips Blocked, Transformer Training Streamlined</title>
       <link>https://www.deeplearning.ai/the-batch/tag/nov-20-2024/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>Meta Reads Minds, Big AI Spending Climbs, Deepfakes Appropriate Celeb Likenesses, Reasoning in Vectors</title>
       <link>https://www.deeplearning.ai/the-batch/tag/feb-26-2025/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2025%2F02%2FUntitled-design--18-.png&amp;w=3840&amp;q=75" alt="Meta Reads Minds, Big AI Spending Climbs, Deepfakes Appropriate Celeb Likenesses, Reasoning in Vectors"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: The Voice Stack is improving rapidly. Systems that interact with users via speaking and listening will drive many new applications.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Meta Reads Minds, Big AI Spending Climbs, Deepfakes Appropriate Celeb Likenesses, Reasoning in Vectors"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/feb-26-2025/</guid>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-4.5 Goes Big, Claude 3.7 Reasons, Alexa+ Goes Agentic, Generating Text Like an Image</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/mar-05-2025/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2025%2F03%2FUntitled-design--20-.png&amp;w=3840&amp;q=75" alt="GPT-4.5 Goes Big, Claude 3.7 Reasons, Alexa+ Goes Agentic, Generating Text Like an Image"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/mar-05-2025/</guid>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
