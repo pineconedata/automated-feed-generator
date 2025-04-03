@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Apr 2025 04:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Apr 2025 04:00:05 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Amazon Nova’s Competitive Price/Performance, OpenAI o1 Pro’s High Price/Performance, Google’s Game Worlds on Tap, Factual LLMs</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/dec-11-2024/</link>
-      <description>&lt;p&gt;The Batch AI News and Insights: AI Product Management is evolving rapidly. The growth of generative AI and AI-based developer tools has created numerous opportunities to build AI applications.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Amazon Nova’s Competitive Price/Performance, OpenAI o1 Pro’s High Price/Performance, Google’s Game Worlds on Tap, Factual LLMs"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/dec-11-2024/</guid>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Phi-4 Breaks Size Barrier, HunyuanVideo Narrows Open Source Gap, Gemini 2.0 Flash Accelerates Multimodal Modeling, LLMs Propose Research Ideas</title>
       <link>https://www.deeplearning.ai/the-batch/tag/dec-18-2024/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>Compact Vision-Language with Open Weights, Faster Learning, Diffusion in Few Steps, LLMs Aid Tutors</title>
       <link>https://www.deeplearning.ai/the-batch/tag/mar-26-2025/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2025%2F03%2Funnamed--56--1.jpg&amp;w=3840&amp;q=75" alt="Compact Vision-Language with Open Weights, Faster Learning, Diffusion in Few Steps, LLMs Aid Tutors"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: Fine-tuning small language models has been gaining traction over the past half year.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Compact Vision-Language with Open Weights, Faster Learning, Diffusion in Few Steps, LLMs Aid Tutors"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/mar-26-2025/</guid>
       <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Open Voice-to-Voice With Vision, ChatGPT Creates Emotional Bonds, Human Action in 3D, Web Scrapers Caught in Maze</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/apr-02-2025/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2025%2F04%2Funnamed--57--1.jpg&amp;w=3840&amp;q=75" alt="Open Voice-to-Voice With Vision, ChatGPT Creates Emotional Bonds, Human Action in 3D, Web Scrapers Caught in Maze"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/apr-02-2025/</guid>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
