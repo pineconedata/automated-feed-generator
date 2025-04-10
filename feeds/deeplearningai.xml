@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Apr 2025 04:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 04:00:05 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Phi-4 Breaks Size Barrier, HunyuanVideo Narrows Open Source Gap, Gemini 2.0 Flash Accelerates Multimodal Modeling, LLMs Propose Research Ideas</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/dec-18-2024/</link>
-      <description>&lt;p&gt;The Batch AI News and Insights: I’m thrilled that former students and postdocs of mine won both of this year’s NeurIPS Test of Time Paper Awards.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Phi-4 Breaks Size Barrier, HunyuanVideo Narrows Open Source Gap, Gemini 2.0 Flash Accelerates Multimodal Modeling, LLMs Propose Research Ideas"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/dec-18-2024/</guid>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Top AI Stories of 2024! Agents Rise, Prices Fall, Models Shrink, Video Takes Off, Acquisitions Morph</title>
       <link>https://www.deeplearning.ai/the-batch/tag/dec-25-2024/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>Open Voice-to-Voice With Vision, ChatGPT Creates Emotional Bonds, Human Action in 3D, Web Scrapers Caught in Maze</title>
       <link>https://www.deeplearning.ai/the-batch/tag/apr-02-2025/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2025%2F04%2Funnamed--57--1.jpg&amp;w=3840&amp;q=75" alt="Open Voice-to-Voice With Vision, ChatGPT Creates Emotional Bonds, Human Action in 3D, Web Scrapers Caught in Maze"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: Contrary to standard prompting advice that you should give LLMs the context they need to succeed, I find it’s sometimes faster to be lazy and dash off a quick, imprecise prompt and see what happens.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Open Voice-to-Voice With Vision, ChatGPT Creates Emotional Bonds, Human Action in 3D, Web Scrapers Caught in Maze"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/apr-02-2025/</guid>
       <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside the Mind of Claude, Llama 4’s Mixture of Vision-Language Experts, More Open Multimodal Models, Neural Net for Tabular Data</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/apr-09-2025/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2025%2F04%2Funnamed--73--1.png&amp;w=3840&amp;q=75" alt="Inside the Mind of Claude, Llama 4’s Mixture of Vision-Language Experts, More Open Multimodal Models, Neural Net for Tabular Data"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/apr-09-2025/</guid>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
