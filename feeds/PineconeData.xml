@@ -6,38 +6,8 @@
     <description>The official blog of Pinecone Data.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 May 2025 04:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 04:00:21 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Data Visualizations</title>
-      <link>https://www.pineconedata.com/2024-07-29-basketball-visualizations/</link>
-      <description>
-        
-        Today we’ll demonstrate how to generate meaningful visualizations. This is the fifth part of a series that walks through the entire process of a data science project - from initial steps like data acquisition, preprocessing, and cleaning to more advanced steps like feature engineering, creating visualizations, and machine learning.
-
-
-        
-        
-          &lt;a href="https://www.pineconedata.com/2024-07-29-basketball-visualizations/" class="post-read-more"&gt;[Read&amp;nbsp;More]&lt;/a&gt;
-        
-      &lt;img src="https://www.pineconedata.com/assets/img/posts/2024-07-29-basketball-visualizations/histogram.png" alt="Data Visualizations"&gt;</description>
-      <guid isPermaLink="false">https://www.pineconedata.com/2024-07-29-basketball-visualizations/</guid>
-      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Selecting a Machine Learning Model</title>
-      <link>https://www.pineconedata.com/2024-08-12-basketball-select-ml-ols/</link>
-      <description>
-        
-        Today we’ll cover the basics of machine learning and examine how to select an appropriate machine learning model. This is the sixth part of a series that walks through the entire process of a data science project - from initial steps like data acquisition, preprocessing, and cleaning to more advanced...
-        
-        
-          &lt;a href="https://www.pineconedata.com/2024-08-12-basketball-select-ml-ols/" class="post-read-more"&gt;[Read&amp;nbsp;More]&lt;/a&gt;
-        
-      &lt;img src="https://www.pineconedata.com/assets/img/posts/2024-08-12-basketball-select-ml-ols/scikit-learn_ml_map.svg" alt="Selecting a Machine Learning Model"&gt;</description>
-      <guid isPermaLink="false">https://www.pineconedata.com/2024-08-12-basketball-select-ml-ols/</guid>
-      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Training a Linear Regression Model</title>
       <link>https://www.pineconedata.com/2024-09-13-basketball-train-ols/</link>
@@ -83,6 +53,36 @@ We’ll cover new writing projects, interesting conferences and events (both loc
       &lt;img src="https://www.pineconedata.com/assets/img/posts/2025-01-24-year-in-review-2024/thumbnail.png" alt="Year in Review [2024]"&gt;</description>
       <guid isPermaLink="false">https://www.pineconedata.com/2025-01-24-year-in-review-2024/</guid>
       <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Create Colorful Custom QR Codes</title>
+      <link>https://www.pineconedata.com/2025-02-21-create-colorful-custom-qr-code/</link>
+      <description>
+        
+        Today we’ll look into how a QR code is created using Python and the powerful Pillow library. Then, we’ll learn how to transform a logo (or any other image) into a customized QR code using the Segno library.
+
+
+        
+        
+          &lt;a href="https://www.pineconedata.com/2025-02-21-create-colorful-custom-qr-code/" class="post-read-more"&gt;[Read&amp;nbsp;More]&lt;/a&gt;
+        
+      &lt;img src="https://www.pineconedata.com/assets/img/posts/2025-02-21-create-colorful-custom-qr-code/thumbnail.png" alt="Create Colorful Custom QR Codes"&gt;</description>
+      <guid isPermaLink="false">https://www.pineconedata.com/2025-02-21-create-colorful-custom-qr-code/</guid>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ridge vs. OLS Linear Regression Models</title>
+      <link>https://www.pineconedata.com/2025-04-04-ridge-regression-vs-ols-linear-regression-models/</link>
+      <description>
+        
+        Today we’ll revisit our Outlier or Caitlin Clark? data science project by examining the differences between Ridge Regression and our previously-trained Ordinary Least Squares (OLS) linear regression model. This is the ninth part of a series that walks through the entire process of a data science project - from initial...
+        
+        
+          &lt;a href="https://www.pineconedata.com/2025-04-04-ridge-regression-vs-ols-linear-regression-models/" class="post-read-more"&gt;[Read&amp;nbsp;More]&lt;/a&gt;
+        
+      &lt;img src="https://www.pineconedata.com/assets/img/posts/2025-04-04-ridge-regression-vs-ols-linear-regression-models/thumbnail.png" alt="Ridge vs. OLS Linear Regression Models"&gt;</description>
+      <guid isPermaLink="false">https://www.pineconedata.com/2025-04-04-ridge-regression-vs-ols-linear-regression-models/</guid>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
