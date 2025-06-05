@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Jun 2025 04:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 04:00:05 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>OpenAI Does Deep Research, Google Goes to War, Alibaba Answers DeepSeek, Web Agents Do Tree Search</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/feb-12-2025/</link>
-      <description>&lt;p&gt;The Batch AI News and Insights: At the Artificial Intelligence Action Summit in Paris this week, U.S. Vice President J.D. Vance said, “I’m not here to talk about AI safety.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="OpenAI Does Deep Research, Google Goes to War, Alibaba Answers DeepSeek, Web Agents Do Tree Search"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/feb-12-2025/</guid>
-      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Grok 3 Scales Up, Mobile Apps Generated To Order, Musk Moves On OpenAI, Officials Reverse Course on AI Regulation</title>
       <link>https://www.deeplearning.ai/the-batch/tag/feb-19-2025/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>Claude 4 Advances Code Gen, How DeepSeek Built V3 For $5.6m, Google I/O Roundup, O’Reilly Versus OpenAI</title>
       <link>https://www.deeplearning.ai/the-batch/tag/may-28-2025/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2025%2F05%2FUntitled-design--25-.png&amp;w=3840&amp;q=75" alt="Claude 4 Advances Code Gen, How DeepSeek Built V3 For $5.6m, Google I/O Roundup, O’Reilly Versus OpenAI"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: I am alarmed by the proposed cuts to U.S. funding for basic research, analyzed here, and the impact this would have for U.S. competitiveness in AI and other areas.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Claude 4 Advances Code Gen, How DeepSeek Built V3 For $5.6m, Google I/O Roundup, O’Reilly Versus OpenAI"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/may-28-2025/</guid>
       <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek-R1 Refreshed, AI’s Energy Conundrum, Agents Get Phished, Machine Translation in Action</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/jun-4-2025/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2025%2F06%2F2025.06.04-LETTER-3--1--1.jpg&amp;w=3840&amp;q=75" alt="DeepSeek-R1 Refreshed, AI’s Energy Conundrum, Agents Get Phished, Machine Translation in Action"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jun-4-2025/</guid>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
