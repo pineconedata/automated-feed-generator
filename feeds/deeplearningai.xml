@@ -6,7 +6,7 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Jun 2025 04:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jun 2025 04:00:05 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>Meta Reads Minds, Big AI Spending Climbs, Deepfakes Appropriate Celeb Likenesses, Reasoning in Vectors</title>
