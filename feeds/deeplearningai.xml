@@ -6,7 +6,7 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Jun 2025 04:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 04:00:05 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>Meta Reads Minds, Big AI Spending Climbs, Deepfakes Appropriate Celeb Likenesses, Reasoning in Vectors</title>
@@ -116,7 +116,7 @@
     <item>
       <title>FLUX.1 Kontext’s Consistent Characters, Benchmarking Costs Climb, Mary Meeker’s Action-Packed AI Report, Better Video Gen</title>
       <link>https://www.deeplearning.ai/the-batch/tag/jun-11-2025/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2025%2F06%2Funnamed---2025-06-11T103344.182-2.png&amp;w=3840&amp;q=75" alt="FLUX.1 Kontext’s Consistent Characters, Benchmarking Costs Climb, Mary Meeker’s Action-Packed AI Report, Better Video Gen"&gt;</description>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2025%2F06%2Funnamed---2025-06-11T103344.182-2.png&amp;w=3840&amp;q=75" alt="FLUX.1 Kontext’s Consistent Characters, Benchmarking Costs Climb, Mary Meeker’s Action-Packed AI Report, Better Video Gen"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jun-11-2025/</guid>
       <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
     </item>
