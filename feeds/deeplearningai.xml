@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Jun 2025 04:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 04:00:06 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>GPT-4.5 Goes Big, Claude 3.7 Reasons, Alexa+ Goes Agentic, Generating Text Like an Image</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/mar-05-2025/</link>
-      <description>&lt;p&gt;The Batch AI News and Insights: Continuing our discussion on the Voice Stack, I’d like to explore an area that today’s voice-based systems mostly struggle with: Voice Activity Detection (VAD) and the turn-taking paradigm of communication.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="GPT-4.5 Goes Big, Claude 3.7 Reasons, Alexa+ Goes Agentic, Generating Text Like an Image"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/mar-05-2025/</guid>
-      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>DeepSeek-R1 Uncensored, QwQ-32B Puts Reasoning in Smaller Model, Phi-4-multimodal Takes Spoken Input, Training AI May Not Be Fair Use</title>
       <link>https://www.deeplearning.ai/the-batch/tag/mar-12-2025/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>Apple Sharpens Its GenAI Profile, Hollywood Joins Copyright Fight, OpenAI Ups Reasoning Quotient, LLM Rights Historical Wrongs</title>
       <link>https://www.deeplearning.ai/the-batch/tag/jun-18-2025/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2025%2F06%2Funnamed---2025-06-18T172010.830-1.png&amp;w=3840&amp;q=75" alt="Apple Sharpens Its GenAI Profile, Hollywood Joins Copyright Fight, OpenAI Ups Reasoning Quotient, LLM Rights Historical Wrongs"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: One of the most effective things the U.S. or any other nation can do to ensure its competitiveness in AI is to welcome high-skilled immigration and international students who have the potential to become high-skilled.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Apple Sharpens Its GenAI Profile, Hollywood Joins Copyright Fight, OpenAI Ups Reasoning Quotient, LLM Rights Historical Wrongs"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jun-18-2025/</guid>
       <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Judge Rules Training AI on Copyrighted Works Is Fair Use, Agentic Biology Evolves, Meta Befriends Alexandr Wang</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/jun-25-2025/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2025%2F06%2Funnamed---2025-06-25T143914.340-1.png&amp;w=3840&amp;q=75" alt="Judge Rules Training AI on Copyrighted Works Is Fair Use, Agentic Biology Evolves, Meta Befriends Alexandr Wang"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jun-25-2025/</guid>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
