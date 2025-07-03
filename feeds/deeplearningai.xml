@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Jul 2025 04:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jul 2025 04:00:05 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>DeepSeek-R1 Uncensored, QwQ-32B Puts Reasoning in Smaller Model, Phi-4-multimodal Takes Spoken Input, Training AI May Not Be Fair Use</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/mar-12-2025/</link>
-      <description>&lt;p&gt;The Batch AI News and Insights: Some people today are discouraging others from learning programming on the grounds AI will automate it.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="DeepSeek-R1 Uncensored, QwQ-32B Puts Reasoning in Smaller Model, Phi-4-multimodal Takes Spoken Input, Training AI May Not Be Fair Use"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/mar-12-2025/</guid>
-      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Inside Google’s Co-Scientist, Copyright Office Weighs Generated Works, Multilingual (and Good at All of Them), Diffusion for Materials Design</title>
       <link>https://www.deeplearning.ai/the-batch/tag/mar-19-2025/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>Judge Rules Training AI on Copyrighted Works Is Fair Use, Agentic Biology Evolves, Meta Befriends Alexandr Wang</title>
       <link>https://www.deeplearning.ai/the-batch/tag/jun-25-2025/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2025%2F06%2Funnamed---2025-06-25T143914.340-1.png&amp;w=3840&amp;q=75" alt="Judge Rules Training AI on Copyrighted Works Is Fair Use, Agentic Biology Evolves, Meta Befriends Alexandr Wang"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: On Monday, a United States District Court ruled that training LLMs on copyrighted books constitutes fair use.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Judge Rules Training AI on Copyrighted Works Is Fair Use, Agentic Biology Evolves, Meta Befriends Alexandr Wang"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jun-25-2025/</guid>
       <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon’s $100 Billion Bet, Meta’s Sensor-Packed Glasses, Anthropic’s Reason-Free Reasoning, Google’s Extreme Weather Prediction</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/jul-02-2025/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2025%2F07%2Funnamed---2025-07-02T140347.128-1.png&amp;w=3840&amp;q=75" alt="Amazon’s $100 Billion Bet, Meta’s Sensor-Packed Glasses, Anthropic’s Reason-Free Reasoning, Google’s Extreme Weather Prediction"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jul-02-2025/</guid>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
