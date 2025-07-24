@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Jul 2025 04:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 04:00:05 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Open Voice-to-Voice With Vision, ChatGPT Creates Emotional Bonds, Human Action in 3D, Web Scrapers Caught in Maze</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/apr-02-2025/</link>
-      <description>&lt;p&gt;The Batch AI News and Insights: Contrary to standard prompting advice that you should give LLMs the context they need to succeed, I find it’s sometimes faster to be lazy and dash off a quick, imprecise prompt and see what happens.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Open Voice-to-Voice With Vision, ChatGPT Creates Emotional Bonds, Human Action in 3D, Web Scrapers Caught in Maze"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/apr-02-2025/</guid>
-      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Inside the Mind of Claude, Llama 4’s Mixture of Vision-Language Experts, More Open Multimodal Models, Neural Net for Tabular Data</title>
       <link>https://www.deeplearning.ai/the-batch/tag/apr-09-2025/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>Grok Raises Questions, Meta Poaches Talent, California Reframes AI Regulations, Multi-Agent Systems Get Stronger</title>
       <link>https://www.deeplearning.ai/the-batch/tag/jul-16-2025/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2025%2F07%2FHow-to-Get-Through-the-Product-Management-Bottleneck.jpg&amp;w=3840&amp;q=75" alt="Grok Raises Questions, Meta Poaches Talent, California Reframes AI Regulations, Multi-Agent Systems Get Stronger"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: The invention of modern writing instruments like the typewriter made writing easier, but they also led to the rise of writer’s block, where deciding what to write became the bottleneck.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Grok Raises Questions, Meta Poaches Talent, California Reframes AI Regulations, Multi-Agent Systems Get Stronger"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jul-16-2025/</guid>
       <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Power Moves in AI Coding, Moonshot’s Agentic LLM, How to Comply with EU AI Regs, AI Agents Evolve</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/jul-23-2025/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2025%2F07%2FAnnouncing-Buildathon-.gif&amp;w=3840&amp;q=75" alt="Power Moves in AI Coding, Moonshot’s Agentic LLM, How to Comply with EU AI Regs, AI Agents Evolve"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jul-23-2025/</guid>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
