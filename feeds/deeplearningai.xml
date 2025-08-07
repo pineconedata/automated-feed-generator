@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Aug 2025 04:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2025 04:00:05 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Google Unveils Gemini 2.5, MCP Gains Momentum, Behind Sam Altman’s Fall and Rise, LLMs That Understand Misspellings</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/apr-16-2025/</link>
-      <description>&lt;p&gt;The Batch AI News and Insights: I’ve noticed that many GenAI application projects put in automated evaluations (evals) of the system’s output probably later — and rely on humans to manually examine and judge outputs longer — than they should.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Google Unveils Gemini 2.5, MCP Gains Momentum, Behind Sam Altman’s Fall and Rise, LLMs That Understand Misspellings"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/apr-16-2025/</guid>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>OpenAI’s Five New Models, Hugging Face’s Open Robot, U.S. Tightens Grip on AI Chips, Text-Only LLMs Go Multimodal</title>
       <link>https://www.deeplearning.ai/the-batch/tag/apr-23-2025/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>Trump Resets AI Policy, Qwen3’s Agentic Advance, U.S. Chips for China, The Trouble With AI Friends</title>
       <link>https://www.deeplearning.ai/the-batch/tag/jul-30-2025/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2025%2F07%2FUS-CHINA-AI-MODELS.png&amp;w=3840&amp;q=75" alt="Trump Resets AI Policy, Qwen3’s Agentic Advance, U.S. Chips for China, The Trouble With AI Friends"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: There is now a path for China to surpass the U.S. in AI. Even though the U.S. is still ahead, China has tremendous momentum with its vibrant open-weights model ecosystem and aggressive moves in semiconductor design and manufacturing.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Trump Resets AI Policy, Qwen3’s Agentic Advance, U.S. Chips for China, The Trouble With AI Friends"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/jul-30-2025/</guid>
       <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Open Agentic LLMs Proliferate, Robot Removes Gallbladders, Reasoning Models Boost Emissions, OpenAI Re-Opens</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/aug-06-2025/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2025%2F08%2FWhy-Meta-Is-Paying-AI-Engineers--100M-2.jpg&amp;w=3840&amp;q=75" alt="Open Agentic LLMs Proliferate, Robot Removes Gallbladders, Reasoning Models Boost Emissions, OpenAI Re-Opens"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/aug-06-2025/</guid>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
