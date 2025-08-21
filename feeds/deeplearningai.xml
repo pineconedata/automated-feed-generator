@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Aug 2025 04:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 04:00:06 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>OpenAI’s Hit Image Generator, Hot AI Startups, Better Recommendations, Music Generation for Pros</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/apr-30-2025/</link>
-      <description>&lt;p&gt;The Batch AI News and Insights: I hope we can empower everyone to build with AI.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="OpenAI’s Hit Image Generator, Hot AI Startups, Better Recommendations, Music Generation for Pros"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/apr-30-2025/</guid>
-      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>ChatGPT Grovels, Qwen3 Takes on DeepSeek-R1, Johnson &amp; Johnson Reveals AI Strategy, Easy Reasoning Hack</title>
       <link>https://www.deeplearning.ai/the-batch/tag/may-7-2025/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>GPT-5’s Rough Takeoff, AI Video Blockbusters, India’s Homegrown LLMs, Synthetic Data Generation</title>
       <link>https://www.deeplearning.ai/the-batch/tag/aug-13-2025/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2025%2F08%2FAI-Transformation-Comes-to-Universities.png&amp;w=3840&amp;q=75" alt="GPT-5’s Rough Takeoff, AI Video Blockbusters, India’s Homegrown LLMs, Synthetic Data Generation"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: Just as many businesses are transforming to become more capable by using AI, universities are too.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="GPT-5’s Rough Takeoff, AI Video Blockbusters, India’s Homegrown LLMs, Synthetic Data Generation"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/aug-13-2025/</guid>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>China Questions Nvidia, When Models Memorize, Mixture of Video Experts, OpenAI &amp; Oracle Join Forces</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/aug-20-2025/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2025%2F08%2FHow-Non-Coders-Built-5-Software-Products-in-6--Hours.png&amp;w=3840&amp;q=75" alt="China Questions Nvidia, When Models Memorize, Mixture of Video Experts, OpenAI &amp; Oracle Join Forces"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/aug-20-2025/</guid>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
