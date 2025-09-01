@@ -6,7 +6,7 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 Aug 2025 04:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Sep 2025 04:00:05 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>Recipes For Reasoning, Open and Compact Code Generator, Looser AI Regulations, More Factual Output</title>
