@@ -6,15 +6,8 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Sep 2025 04:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 04:00:05 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Codex’s Robot Dev Team, Grok’s Fixation on South Africa, Saudi Arabia’s AI Power Play, 4-Bit Efficiency With 16-Bit Accuracy</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/may-21-2025/</link>
-      <description>&lt;p&gt;The Batch AI News and Insights: In the age of AI, large corporations — not just startups — can move fast. I often speak with large companies’ C-suite and Boards about AI strategy and implementation, and would like to share some ideas that are applicable to big companies.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Codex’s Robot Dev Team, Grok’s Fixation on South Africa, Saudi Arabia’s AI Power Play, 4-Bit Efficiency With 16-Bit Accuracy"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/may-21-2025/</guid>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Claude 4 Advances Code Gen, How DeepSeek Built V3 For $5.6m, Google I/O Roundup, O’Reilly Versus OpenAI</title>
       <link>https://www.deeplearning.ai/the-batch/tag/may-28-2025/</link>
@@ -116,9 +109,16 @@
     <item>
       <title>Gemini’s Environmental Impact, China’s Emerging AI Hub, Chatbot Job Interviews, Security For Agents</title>
       <link>https://www.deeplearning.ai/the-batch/tag/sep-03-2025/</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2025%2F09%2FCODER-INTERVIEW-2022-2025-2.jpg&amp;w=3840&amp;q=75" alt="Gemini’s Environmental Impact, China’s Emerging AI Hub, Chatbot Job Interviews, Security For Agents"&gt;</description>
+      <description>&lt;p&gt;The Batch AI News and Insights: There is significant unmet demand for developers who understand AI.&lt;/p&gt;&lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Gemini’s Environmental Impact, China’s Emerging AI Hub, Chatbot Job Interviews, Security For Agents"&gt;</description>
       <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/sep-03-2025/</guid>
       <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stronger Chatbot Guardrails, Weaker Google Monopoly, AI-Assisted Education, 10 Million Tokens of Context</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/sep-10-2025/</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2025%2F09%2FKnowledge-Is-Great--Skills-Are-Greater.png&amp;w=3840&amp;q=75" alt="Stronger Chatbot Guardrails, Weaker Google Monopoly, AI-Assisted Education, 10 Million Tokens of Context"&gt;</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/sep-10-2025/</guid>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
