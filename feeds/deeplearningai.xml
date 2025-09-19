@@ -6,7 +6,7 @@
     <description>The batch of latest news published by Deep Learning AI.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Sep 2025 04:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 04:00:05 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>DeepSeek-R1 Refreshed, AI’s Energy Conundrum, Agents Get Phished, Machine Translation in Action</title>
@@ -115,9 +115,9 @@
     </item>
     <item>
       <title>Drone Swarms Go To War, States Ban AI Mental-Health Treatments, Qwen3-Next Accelerates, Transformers Get Energized</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/sep-17-2025/</link>
+      <link>https://www.deeplearning.ai/the-batch/tag/sep-17-2025-2/</link>
       <description>&lt;p&gt;&lt;/p&gt;&lt;img src="https://www.deeplearning.ai/_next/image/?url=https%3A%2F%2Fcharonhub.deeplearning.ai%2Fcontent%2Fimages%2F2025%2F09%2Funnamed--74-.jpg&amp;w=3840&amp;q=75" alt="Drone Swarms Go To War, States Ban AI Mental-Health Treatments, Qwen3-Next Accelerates, Transformers Get Energized"&gt;</description>
-      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/sep-17-2025/</guid>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/tag/sep-17-2025-2/</guid>
       <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
