@@ -2,6 +2,8 @@
 
 This Python script allows you to scrape content from a website and generate an RSS feed. It's a flexible tool that can be configured to work with different websites and data sources. You can easily set up your web scraping and RSS feed generation by defining parameters in a JSON configuration file.
 
+This project demonstrates a configurable Python workflow for extracting website content and generating RSS feeds automatically. For more information about the project and its development, see the [Automated Feed Generator project overview](https://www.pineconedata.com/projects/automated-feed-generator/) on Pinecone Data.
+
 ## Features
 
 - **Website Scraping**: Scrape content from a specified website using Selenium.
